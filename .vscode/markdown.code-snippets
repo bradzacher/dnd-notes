@@ -1,0 +1,16 @@
+{
+  "Markdown Image": {
+    "prefix": "img",
+    "body": ["![${1:alt}](./${2:Name}.png)$0"]
+  },
+  "Markdown Table": {
+    "prefix": "table",
+    "body": [
+      "|   |   |   |   |   |",
+      "|---|---|---|---|---|",
+      "|   |   |   |   |   |",
+      "|   |   |   |   |   |",
+      "|   |   |   |   |   |"
+    ]
+  }
+}

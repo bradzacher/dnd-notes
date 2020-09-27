@@ -1,0 +1,29 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/*.pyc": true,
+    "**/.DS_Store": true,
+    "**/build": true,
+    "**/node_modules": true,
+    ".prettierrc.json": true,
+    ".gitignore": true,
+    ".editorconfig": true,
+    "yarn.lock": true,
+    ".markdownlintignore": true,
+    ".markdownlint.json": true,
+    ".huskyrc.json": true,
+    ".vscode": true,
+    ".prettierignore": true,
+    "package.json": true
+  },
+  "files.associations": {
+    ".markdownlint.json": "jsonc"
+  },
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": false
+  }
+}

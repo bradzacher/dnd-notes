@@ -1,0 +1,22 @@
+{
+  "name": "dnd-eberron",
+  "version": "0.0.0",
+  "license": "Unlicense",
+  "private": true,
+  "author": {
+    "name": "Brad Zacher",
+    "url": "https://github.com/bradzacher"
+  },
+  "devDependencies": {
+    "cspell": "^4.1.0",
+    "husky": "^4.3.0",
+    "markdownlint-cli": "^0.23.2",
+    "prettier": "^2.1.2"
+  },
+  "scripts": {
+    "format": "prettier --write .",
+    "check:format": "prettier --check .",
+    "lint:markdown": "markdownlint '**/*.md' --config=.markdownlint.json --ignore-path=.markdownlintignore",
+    "pre-commit": "yarn lint:markdown && yarn check:format"
+  }
+}
