@@ -1,5 +1,7 @@
 # Karl, the Avatar of Woe
 
+https://www.dndbeyond.com/profile/AvatarOfWoe/characters/36163039
+
 ## Story
 
 Karl, The Avatar of Woe
