@@ -14,4 +14,4 @@ Ghallanda has a number of "bound businesses"—franchises run directly by the ho
 
 House Ghallanda's mandate extends beyond providing creature comforts to travelers. Every one of the house's enclaves—which are more numerous than those of any other dragonmarked house—is a sanctuary beyond the legal reach of any government or dragonmarked house. Baron Yoren and his daughter Chervina have greatly expanded the house's presence even in remote areas such as the edge of the Demon Wastes, guided by their study of the Draconic Prophecy.
 
-![emblem](<./Ghallanda_(Hospitality).png>)
+![emblem](<./images/Ghallanda_(Hospitality).png>)

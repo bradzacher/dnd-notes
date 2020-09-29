@@ -14,4 +14,4 @@ House Kundarak has a close alliance with House Sivis. Like the House of Scribing
 
 As the dwarves of the Mror Holds have come into increasing conflict with the daelkyr, Lord Morrikan d'Kundarak has instructed house heirs to establish connections with the Gatekeeper druids. The druids have much in common with the house, being the creators of the wards that protect Eberron from the daelkyr.
 
-![emblem](<./Kundarak_(Warding).png>)
+![emblem](<./images/Kundarak_(Warding).png>)

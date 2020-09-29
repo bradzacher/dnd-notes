@@ -25,4 +25,4 @@ The services of the Blood of Vol focus on drawing the faithful together as a com
 
 A shrine devoted to the Blood of Vol requires only an altar and a means for collecting ritually spilled blood. Temples of the Blood of Vol are fortified structures, built to serve as sanctuaries. In contrast to the Silver Flame, such temples are stark and functional. Temples include vaults or catacombs, designed to hold undead or to store corpses.
 
-![symbol](./Blood_of_Vol.png)
+![symbol](./images/Blood_of_Vol.png)

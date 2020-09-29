@@ -22,4 +22,4 @@ The most sacred rite of the Undying Court is trance communion. While in trance, 
 
 In Aerenal, the temples of the Undying Court are step pyramids built from stone. In Khorvaire, shrines to the Court use imported Aereni densewood, a particularly tough lumber that grows only on the island. Regardless of form, the walls are engraved with stories about the Undying Councilors that serve as the particular patrons of the temple, usually those related to the local priests.
 
-![symbol](./Undying_Court.png)
+![symbol](./images/Undying_Court.png)

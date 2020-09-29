@@ -12,4 +12,4 @@ Represented by the basilisk's eye, the Warning Guild of House Medani brokers the
 
 The members of House Medani are half-elves with deep roots in Breland. Medani has little interest in the power struggles that sometimes break out between the other dragonmarked houses. Many Medani heirs are more interested in helping their communities than in raw profit, and Medani heirs often work with local law enforcement or help those who can't afford their services.
 
-![emblem](<./Medani_(Detection).png>)
+![emblem](<./images/Medani_(Detection).png>)

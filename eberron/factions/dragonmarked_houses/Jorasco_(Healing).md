@@ -14,4 +14,4 @@ The guild runs schools that teach medicine, as well as houses of healing that pr
 
 While the public face of Jorasco is that of the healer, there are rumors that the house engaged in disturbing experiments during the Last War, working with House Vadalis to develop biological weapons and new creatures. A Jorasco heir has to decide if they want to investigate these rumors.
 
-![emblem](<./Jorasco_(Healing).png>)
+![emblem](<./images/Jorasco_(Healing).png>)

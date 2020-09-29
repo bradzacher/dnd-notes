@@ -14,4 +14,4 @@ House Lyrandar also controls the air in a literal way. The Raincallers' Guild ca
 
 For many of the house's members, the house is more than a family or business—its private island enclave, Stormhome, is the closest thing they have to a homeland. Baron Esravash is ambitious and often steers the house to act in what he sees as the interests of all half-elves. Lyrandar heirs help the Valenar elves run their young kingdom, and some believe that Valenar could become a true homeland for the Khoravar
 
-![emblem](<./Lyrandar_(Storm).png>)
+![emblem](<./images/Lyrandar_(Storm).png>)

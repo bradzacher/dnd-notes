@@ -29,4 +29,4 @@ These common names and attributes describe the Dark Six as they are known in Kho
 - **The Shadow** is the dark side of knowledge and ambition. It's said to be Aureon's shadow, given malign life when Aureon mastered magic. The Shadow is the maker of monsters and the keeper of forbidden secrets, and it offers malevolent spells to warlocks and wizards.
 - **The Traveler** asserts that chaos drives evolution and that change makes us stronger. The Traveler is a trickster and the giver of dangerous gifts. Some artificers worship the Traveler, seeing it as the lord of innovation, but the gifts of the Traveler always have unexpected consequences.
 
-![symbol](./Dark_Six.png)
+![symbol](./images/Dark_Six.png)

@@ -12,4 +12,4 @@ House Deneith was born in Karrnath, and war flows in its veins. For centuries, t
 
 Despite its might and the desire of some house members to flex their military muscles, House Deneith has always maintained absolute neutrality, selling its services to all sides of a conflict. Baron Breven d'Deneith shows no inclination of using the massive, chimera-marked military forces of his house for his own ends, but he's surrounded by aggressive advisors who would like to see a Deneith ruling all Khorvaire. House Deneith is also caught in an escalating rivalry with House Tharashk, as it edges into the mercenary trade.
 
-![emblem](<./Deneith_(Sentinel).png>)
+![emblem](<./images/Deneith_(Sentinel).png>)

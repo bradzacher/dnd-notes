@@ -23,4 +23,4 @@ Physical and mental discipline are important virtues of the Path of Light. Marti
 Temples
 The nation of Adar in Sarlona is home to vast fortress monasteries devoted to the Path of Light. In Khorvaire, a mere handful of shrines appear in cities with large kalashtar communities. These shrines are calm and peaceful, the air scented with Sarlonan incense. The chambers are open, providing space for martial arts. Labyrinthine patterns engraved on the floors serve as an aid to meditation, while the walls hold crystals that focus and amplify the psychic abilities of the priests.
 
-![symbol](./The_Path_of_the_Light.png)
+![symbol](./images/The_Path_of_the_Light.png)

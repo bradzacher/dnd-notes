@@ -12,4 +12,4 @@ Bearing the emblem of the cockatrice, the gnomes of House Sivis facilitate commu
 
 House Sivis takes great pains to maintain the trust of its clients and holds a position of absolute neutrality in all disputes, whether between houses or nations. Sivis gnomes are typically friendly, curious, and engaging, but that kindly exterior might conceal a scheming mind. Gnomes have a natural love of intrigue, and the different families within the house often engage in subtle schemes and feuds. Doyenne Lyssa Larriman, the leader of the house, takes pains to ensure that these intrigues never threaten the house or its reputation.
 
-![emblem](<./Sivis_(Scribing).png>)
+![emblem](<./images/Sivis_(Scribing).png>)

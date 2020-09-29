@@ -39,4 +39,4 @@ These common names and attributes describe the nine Sovereigns as they are worsh
 - **Olladra** is the Sovereign of Feast and Fortune. She is the giver of joy and the granter of luck, patron to entertainers, gamblers, and anyone who takes a chance.
 - **Onatar** is the Sovereign of Fire and Forge. He guides both mundane smiths and artificers, inspiring anyone who performs an act of creation.
 
-![symbol](./Sovereign_Host.png)
+![symbol](./images/Sovereign_Host.png)
