@@ -10,17 +10,17 @@
 
 > As darkness descends on the city, you see windows light up the towers around you from bottom to top. A cool wind whisks between you, drowning out the other noises of the city. A nearby lift rises, carrying a human in her mid-thirties with close cropped black hair and a glowing pipe in her mouth. Germaine gives a wry smile as she nods to you all, saying, "Thanks for coming."
 
-- Party meets Sergeant Germaine Vilroy
-  - She sent each of them a letter
+- Party meets [[Germaine Vilroy]], a Sergeant of the [[Sharn Watch]].
+  - She sent each of the PCs a letter.
 - Vilroy has a job for the party:
-  - Germaine has an appointment to meet with a warforged named Coal, who claims to have knowledge of a crime being committed in Old Sharn. Germaine wants the party to meet with Coal first and see if what she says adds up. Germaine is worried that, with her status as a Watch sergeant, her presence will call undue attention and endanger Coal.
+  - Germaine has an appointment to meet with a warforged named [[Coal]], who claims to have knowledge of a crime being committed in [[Old Sharn]]. Germaine wants the party to meet with Coal first and see if what she says adds up. Germaine is worried that, with her status as a Watch sergeant, her presence will call undue attention and endanger Coal.
   - Germaine can give the characters 25 gp each now and another 50 gp each if they bring in Coal.
   - If the characters consent to meet with Coal, Germaine provides the location of the Cog Carnival, a bar in High Walls frequented by warforged, and the appointed meeting time.
   - Germaine also provides a Sharn Watch writ of enforcement. The writ authorizes the bearers to conduct official duties of the Watch under Sergeant Vilroy's authority. City workers and other members of the Watch respect the writ, sometimes grudgingly, as long as the characters don’t engage in flagrantly illegal activity.
 
 ### Secrets
 
-- Germaine is on the payroll of the Boromars - this is why she doesn't want to investigate herself.
+- Germaine is on the payroll of the [[Boromar Clan]] - this is why she doesn't want to investigate herself.
 - Germaine is concerned for Coal, because she's afraid that Coal is caught in between two criminal clans.
 
 ## Getting to High Walls
@@ -69,7 +69,7 @@ Coal will tell the characters the following:
 
 - Her friend Razor (also a Warforged) had been working a job for a month or so.
   - The job was to go into lower Sharn at night with a number of other Warforged to excavate the ruins down there.
-  - Razor was hired by Alden d'Lyrandar for the job - it was a "secret mission".
+  - Razor was hired by [[Alden d'Lyrandar]] for the job - it was a "secret mission".
   - Coal also started working in the last few weeks.
     - Getting work as a foreign Warforged is hard.
   - Coal witnessed the bosses of the excavation murder Razor.
@@ -108,9 +108,9 @@ As the PCs ask questions, pick a good time to interrupt them.
 
 ### Secrets
 
-- The group works for Daask, a criminal organization.
-- The criminals were told to kill Coal via a letter sent by a Daask lieutenant named Garra. The letter has since been destroyed.
-- Daask's members are mostly immigrants from Droaam and some of the local population from the Cogs and lower wards of Sharn.
+- The group works for [[Daask]], a criminal organization.
+- The criminals were told to kill Coal via a letter sent by a Daask lieutenant named [[Garra]]. The letter has since been destroyed.
+- Daask's members are mostly immigrants from Droaam and some of the local population from the Cogs and lower wards of [[Sharn]].
 
 ## Talking with Coal - Part 2
 

@@ -13,11 +13,11 @@ Players introduce
 
 ## Scenes
 
-- Meeting with Vilroy - Lyrandar Tower
-- Meeting with Coal - Cog Carnival
-- Meeting with Alden d'Lyrandar - Mithral Tower
-- Daask Excavation - Lower Sharn
-- Terminus
+- Meeting with Germaine Vilroy
+- Meeting with Coal
+- Meeting with Alden d'Lyrandar
+- Exploring the Daask Excavation
+- Investigating Terminus
 - Lightning Rail
 
 ## Secret and Clues
@@ -30,22 +30,26 @@ Check off when revealed.
 - [x] Coal and Razor are veterans of the Last War - they served for Cyre.
 - [x] Razor was planning to quit before she died.
 - [x] Razor and Coal were working for Alden d'Lyrandar
-- [ ]
-- [ ] Garra is taking the next lightning rail to Wroat.
+- [ ] Garra is taking the next lightning rail to [[Wroat]].
 - [ ] Garra has a list of names - these names are the names of warforged titans that were made.
 - [ ] Garra has a Docent. This was dug up from the ruins of old sharn.
 
 ## Fantastic Locations
 
-- Cog Carnival
+- [[Cog Carnival]]
 - Mithral Tower - Clouded Estate
+- Daask excavation site
+- [[Terminus]]
 - Lightning Rail
 
 ## NPCs
 
 - [x] Review NPCs
-- Germaine Vilroy
-- Garra
+- [[Germaine Vilroy]]
+- [[Garra]]
+- [[Coal]]
+- [[Alden d'Lyrandar]]
+- [[Caden d'Lyrandar]]
 
 ## Monsters
 

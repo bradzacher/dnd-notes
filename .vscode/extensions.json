@@ -3,7 +3,8 @@
     "davidanson.vscode-markdownlint",
     "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
-    "streetsidesoftware.code-spell-checker"
+    "streetsidesoftware.code-spell-checker",
+    "bradzacher.vscode-markdown-linkifier"
   ],
   "unwantedRecommendations": ["dbaeumer.jshint", "hookyqr.beautify"]
 }
