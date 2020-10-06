@@ -1,0 +1,43 @@
+# Session 3 - Monday October 5th 2020
+
+- Nairoladnam and Retha tried to get some information on Lynx and Ursas, but weren't able to get much.
+- Nairo went to scout out
+  - Sir Ursus
+    - Single guard standing out front.
+    - Guards rotating every 2 hours - smartly dressed but bulky.
+    - The grounds are surrounded by a hedge maze
+      - Clearly enchanted - easy to get lost in, impossible to climb out of
+      - Nairo got lost...
+      - [[Sir Ursas]] saved her.
+        - He magically finds his way through
+- We went to talk to [[Sir Ursus]] in the morning.
+  - He wanted the gems
+    - Sad we returned them to the librarians.
+    - He said the gems shouldn't exist, but do due to the magic of the fey wild.
+    - Believes gems are part of an ancient machine.
+    - Machine would give him great power.
+      - Power he would use to fight for the people and win the war he lost (the pacification war)
+      - He fought against the emperor.
+      - Knows of an ancient **_TEMPLE_** that contains part of the machine
+        - Certain the gems can help him find the entire machine.
+  - He was not aware his man had been killed.
+    - Does not know who [[Kalarel the Vile]] is.
+  - His quest:
+    - Help him find the machine and use it to free the people.
+- We went to visit [[Lynx Creatlach]] for tea.
+  - Same spiel about the machine
+  - She instead mentions a **_TOMB_**.
+  - She lies about her love for the emperor.
+  - She wants to put down the evil that takes away freedoms.
+  - She has a fake eye (it's magical?)
+- [[Mr Happy Joy]]
+  - A gnome was waiting for us outside our inn.
+    - "Boss wants to speak to you about Spike"
+  - Tradesman's district
+  - He was the one that contracted the librarians for the gems
+  - He wants us to steal them or fight for them to retrieve them
+  - He was hired by the Syndicate
+    - He wants to please them to gain nobility
+  - He's offering us 12,000gp to get the gems from the librarians by any means
+    - Gems are held at a "neutral" bank that he's found out about
+      - Bank of House Khaal
