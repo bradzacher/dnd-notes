@@ -148,4 +148,82 @@ There are now a few directions the PCs can go:
 
 ## Dhakaani Ruins
 
+> The lift seems to descend forever into the belly of Sharn. Several minutes pass as and the lift rattles and shakes, as if passing into some place it was not meant to go. This rumbling builds to a violent peak then the lift stops, and its doors open.
+>
+> By the lift’s interior light, you can see into a vast, unlit cavern strewn with broken stonework from ancient buildings as far as you can see in every direction. The air is stale, and filled with dust and the scent of decay. These are the ruins of the cities atop which Sharn is built.
+>
+> Ahead of you lies the darkness - there are no lights down here. In the immediate vicinity you can make out the 30ft high ceiling, and the tops of some buildings.
+
+- About 200ft away from the elevator is the excavation pit - a yawning 50-foot diameter, 15-foot deep pit, clearly intentionally dug.
+- Inside the pit there are a number of buildings that have been revealed by the excavations.
+- As characters wander into the pit, they hear the soft sobs of a young child.
+- Shortly after the PCs enter the pit, they are ambushed by 3 Goblins and a Hobgoblin.
+  - The goblins are hidden, and attack from the rooftops.
+  - The hobgoblin attacks from the streets.
+  - The area is pitch-black, so PCs are considered blinded without darkvision or a light-source.
+  - Rewards:
+    - 14 sp
+    - 12 gp
+    - 10 gp banded agate necklace
+- The pit contains the following features:
+  - Misc ruined buildings
+  - One building with an ancient mark of Cannith on it - DC15 Intelligence (History) check to recognise it
+  - 11 warforged in various states of disrepair, chained together.
+  - A small, ruined shed containing Caden.
+
+### [[Caden d'Lyrandar]]
+
+Caden is kept shackled in a small shed in the excavation
+
+> The shed contains a small child covered in dust, wearing the once-fine, now-ruined garments. Even in their mangled state, you can still clearly make them out as being the livery of a House Lyrandar. The boy sobs, shrunken into one corner, his face slack. Stale bread, smelly water, a pile of rags, and a chamber pot round out the accommodations.
+
+- Roleplaying Caden.
+  - Caden is nearly catatonic from his ordeal. If freed, the six-year-old simply sits and stares in to the middle distance.
+  - Any character trained in Medicine knows that the boy needs proper food and water, rest, and his father.
+  - Using any sort of healing magic on the boy rouses him almost immediately.
+  - A successful DC 13 Charisma (Persuasion) check gets him to open up about his experience.
+  - A character who spends an hour consoling Caden and giving him something to eat and drink brings him around, no check required.
+  - If either of these methods succeed, Caden tells the characters he was kidnapped by a big, mean lady named Garra and imprisoned here by her goblin friends.
+- Caden's manacles
+  - The manacles, originally designed to bind goblins, are sturdy but old.
+  - A character who makes a successful DC 15 Dexterity check with thieves’ tools picks the manacles’ lock, and a character who succeeds on a DC 17 Strength (Athletics) check breaks the manacles loose.
+    - A character who succeeds on a DC 11 Intelligence (Investigation) check finds the manacles’ lock is smeared with oil of taggit.
+    - Any character that attempts to pick the lock without gloves is exposed to the poison and must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours.
+      - The poisoned creature is unconscious.
+      - It wakes up if it takes damage.
+
+## Mithral Tower
+
+> Mithral Tower is Sharn's most desirable downtown residential district in Upper Central Plateau and is occupied by some of the city’s wealthiest citizens.
+>
+> Many of the grand homes in Mithral Tower are true to the district’s name, boasting mithral filigree. The Sharn Watch seems to be everywhere in this neighborhood full of busy scions climbing into skycoaches, hosting opulent parties, and showing off their latest purchases at all hours of the day.
+>
+> The Clouded Estate has a grand lightning-bolt statue and various weather-shaped topiaries adorning the yard beyond an open, wrought-iron gate. Flanking this gate are two guards in House Lyrandar livery, and clearly very fine (and expensive) armour.
+>
+> The magnificent marble home is clearly owned by one of the city’s wealthiest dragonmarked families. Seated on a patio couch are two figures engaged in quiet conversation: a haggard man in his late thirties and an attentive kalashtar who holds a rose-colored crystal in his hands. Two more guards dressed like the ones at the gates stand nearby.
+
+- The men are [[Alden d'Lyrandar]] and his assistant Vishtai.
+  - When Alden notices the characters with Caden, he immediately rushes over.
+  - Alden will gladly give the characters whatever information they want (see secrets)
+  - Alden asks the characters to leave the Lyrandar name out of the report, and offers 50gp total
+    - A DC15 Charisma (Intimidation or Persuasion) check gets alden to raise this amount to 100gp.
+    - Refusing his request will make him an enemy of the party.
+    - Alden can use his connections to bury this on his own, but he'd prefer not to.
+- Vishtai gifts the characters a lightning-bolt shaped feather token each.
+
+### Secrets
+
+- A half-ogre named Garra kidnapped Caden, forcing Alden to use his position to hire workers.
+- Garra is a Daask Lieutenant.
+- Garra was looking for arcane relics at the behest of someone much higher up in the organisation.
+- Alden hired the destitute and homeless - whomever he could find that he thought nobody would miss.
+- Alden branded the work as a "secret research-gathering mission" for house Lyrandar.
+- Alden paid them well to keep silent, and made each sign binding contracts.
+- Alden does not regret what he did to keep his son alive.
+- Excavation has been ongoing for several weeks.
+- Alden doesn't know what they had found down there, but he had been told the items were being moved to a safe-house in Tavick's Landing near Terminus.
+  - Alden can give the approximate location of the safe-house.
+
+## Skycoach Ride
+
 ...
