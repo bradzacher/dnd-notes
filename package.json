@@ -10,13 +10,22 @@
   "devDependencies": {
     "cspell": "^4.1.0",
     "husky": "^4.3.0",
+    "lint-staged": "^10.4.2",
     "markdownlint-cli": "^0.23.2",
     "prettier": "^2.1.2"
   },
   "scripts": {
-    "format": "prettier --write .",
+    "format:base": "prettier --write",
+    "format": "yarn format:base .",
     "check:format": "prettier --check .",
-    "lint:markdown": "markdownlint '**/*.md' --config=.markdownlint.json --ignore-path=.markdownlintignore",
-    "pre-commit": "yarn lint:markdown && yarn check:format"
+    "lint:markdown:base": "markdownlint --config=.markdownlint.json --ignore-path=.markdownlintignore",
+    "lint:markdown": "yarn lint:markdown:base '**/*.md'",
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{md,json}": [
+      "yarn format:base",
+      "yarn lint:markdown:base"
+    ]
   }
 }
