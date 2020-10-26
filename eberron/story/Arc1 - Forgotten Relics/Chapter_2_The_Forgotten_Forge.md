@@ -132,7 +132,7 @@
     - "Other than the Lord of Blades, who may have other agents seeking the schema, who knows what lurks in the hidden places beneath the city? Now that I think about it, Bonal did say that he would definitely need to bring fire on the expedition. I wonder what he meant? Anyway, I urge caution, but I am completely confident that you can handle anything you may encounter in your search."
     - If the PCs tell her about the final messenger, she looks troubled, then says that the Lord of Blades most definitely is aware of the situation.
 - Once the players agree, she asks them for the journal.
-  - "The location of the lost foundry is deep within the Dorasharn Tower, 57 levels below the tower’s present-day sewer system."
+  - "The location of the lost foundry is deep within the Dorasharn Tower, 57 levels below the tower's present-day sewer system."
   - "This map shows the way to reach the sewers of the Dorasharn Tower. Somewhere beyond the E-213 Valve Cluster you'll find a sealed door with the same mark as the one on Bonal's journal. Open the seal, and the tunnel beyond will take you to the long-forgotten level far below, where the foundry resides."
 
 #### Secrets
@@ -155,8 +155,13 @@
 - The players only know that the entrance is within Dorasharn Tower - they don't know how to find it.
 - As they spend some time exploring the streets of Dorasharn:
 
-> The streets of Dorasharn Tower are lined with ramshackle apartments and filled with goblins, hobgoblins, and the occasional bugbear.
-> Sharn has always had goblinoids, but they aren’t often seen in numbers like this.
+> The streets of Dorasharn Tower are lined with ramshackle apartments and slums.
+> The people are dressed in old, grimy clothes. The merchants sell used and sometimes partially soiled goods.
+> This is clearly one of the poorest neighbourhoods in Sharn.
+> As you head deeper in the tower, you eventually reach Malleon's Gate.
+> The area is filled with goblins, hobgoblins, and the occasional bugbear.
+> Sharn has always had goblinoids, but they aren't often seen in numbers like this.
+> The area is as busy and chaotic as it is run down.
 
 - Mini-events and sights:
   - An entirely-too-lifelike statue of an angry hobgoblin warrior near the entrance of an apartment.
@@ -192,4 +197,40 @@
       - Neebur then proceeds to plead for more time, insisting that he needs more than a few hours to craft an entire wardrobe.
     - Mandy will turn to vandalism in an attempt to motivate him.
       - Mandy doesn't care about the presence of the PCs, and will break several racks, unless the PCs intervene.
-    - "Yes. I can help you with that Valve issue, but Mandy here is my most important customer. Of course. And I have to take care of him first. I'm sorry, but until he's... done. You’ll just have to wait."
+    - "Yes. I can help you with that Valve issue, but Mandy here is my most important customer. Of course. And I have to take care of him first. I'm sorry, but until he's... done. You'll just have to wait."
+  - Neebur doesn't know the location of the valve cluster - but knows someone who will - Skakan.
+    - If the PCs stop Mandy - Neebur is all too willing to share this information.
+    - If the PCs let Mandy ruin the shop - Neebur will dejectedly share this information, saying that he might as well move his show there himself, now that all he has is trash.
+
+### The Rat's Market
+
+> The tunnels and corridors at this level of the tower are narrow and dark.
+> An occasional window slit looks out upon the crowded walls and foundations of other towers, and infrequently placed torches sputter here and there, giving off pallid pools of light and clouds of smoke.
+> Even so, rough and dirty people crowd the narrow corridors, and the smell of sweat and sewage permeates the stale air.
+> One tunnel opens onto a large chamber, where a mix of goblins, humans, and shifters gather around a small pile of garbage spread across three rotting blankets.
+> One of the goblins shouts, "No pushing! No pushing! There's always enough for everyone at the Rat's Market!"
+> I've got a rare stick of sealing wax, only partially used, for a mere sixty coppers!
+> Or maybe you could use this fine woolen blanket with just a hint of mildew? Only thirty-nine coppers!
+> How about a skewer of boiled rat meat? For you, just five silver!
+
+- The rat's market is a small shop run that sell scavenged goods.
+- Most of the goods have been found in the sewers and refuse heaps of Sharn, but occasionally a stolen item makes its way into the mix.
+  - There's likely little the PCs want to purchase from this assortment of junk.
+- The proprietor is a goblin named Skakan.
+  - Skakan is the face of a small sewer clan that finds things in the sewers that Skakan then sells to bring in some coin.
+  - Skakan will gladly provide directions to the PCs for 100sp.
+    - "I could point out the way to a certain valve cluster, but what would it be worth to fine explorers such as yourselves? One hundred silver?"
+    - DC15 Charisma (Persuasion) check to reduce the price to 90sp.
+    - DC20 Charisma (Persuasion) check to reduce the price to 80sp.
+    - If the PCs pay in gold, Skakan's eyes widen, but he does not say anything about it.
+    - If the PCs choose to intimidate the information out of him, Skakan will (unhappily) give them the information.
+      - He will make sure he gets his revenge later.
+- The crowd is made up of goblinoids, humans, and shifters.
+  - A couple of the dirtier goblins in the crowd are part of his clan and there to attempt to stir up interest in his goods.
+  - A PC not engaged in the conversation with Skakan who surveys the area can make a DC 15 Wisdom (Perception) check to notice a shifter watching them.
+    - If one of the PCs notices him - he quickly fades into the crowd and disappears out of one of the many tunnels leading off of this chamber.
+
+### Sharn Sewer
+
+> Skakan points out a narrow passage that leads to a staircase that descends deeper into the tower.
+> With each step down, the odor of mold and sewage becomes stronger, and you can hear liquid sounds increasing in volume as you descend.
