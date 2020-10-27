@@ -1,0 +1,21 @@
+# Session 5 - Monday October 26th 2020
+
+- [[Nairoladnam]] ran in to attempt to steal from the wizard...
+  - He thwarted her attempt easily
+  - His name is [[Moghadam]] the Many Coloured.
+  - He is lead architect.
+  - Temple to the end - the great lie.
+  - Thought we were agents of the changing one.
+  - We are at the tomb - he keeps talking about baddies from the Temple coming over and causing them troubles.
+    - Thessalar
+- His gemwright was taken by Thessalar
+  - He wants us to get them back from the Temple.
+    - "We wil recognise him"
+    - Seodra is his name
+  - He is paying us handsomely to do this
+  - There will be traps
+  - And monsters
+  - And dangers
+- Exploring the tomb:
+  - We hear chanting:
+    - Forget no insult, my sons, as I have never forgotten those of my father, of the Emperor, nor those of She Who Thirsts. Forgive no slight or grievance. Hold your bitterness deep within, and there let it fester. Let it roil and squirm and churn, until you are filled with bile so poisonous that all you touch falls to ruin. Thus shall you serve the Urfather best. Thus shall you spread his virulent gifts across the false Imperium, and watch its final rotting...
