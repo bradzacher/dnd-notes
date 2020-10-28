@@ -119,7 +119,7 @@
     - A DC15 Charisma (Persuasion) check can convince her to increase this to 1250gp.
     - She will pay the characters 100gp each up front - and offers no more.
   - What is she seeking?
-    - "The relic I seek is an adamantine plate in the shape of a seven-pointed star about the size of your hand. It has no special power by itself, but is an ancient schema—a piece of a pattern used by the Cannith artificers of old to craft unusual items."
+    - "The relic I seek is an adamantine plate in the shape of a seven-pointed star about the size of your hand. It has no special power by itself, but is an ancient schema — a piece of a pattern used by the Cannith artificers of old to craft unusual items."
   - Who killed Bonal Geldem?
     - "A servant of the [[Lord of Blades]]. The warforged prophet wants the schema for his own dark purposes"
     - How do you know it was the [[Lord of Blades]]?
@@ -232,5 +232,59 @@
 
 ### Sharn Sewer
 
-> Skakan points out a narrow passage that leads to a staircase that descends deeper into the tower.
 > With each step down, the odor of mold and sewage becomes stronger, and you can hear liquid sounds increasing in volume as you descend.
+> There are no lanterns burning, nor windows to let in the sun - it is pitch-black in here.
+> Skakan points out a narrow passage that leads to a staircase that descends deeper into the sewers beneath the city.
+
+- Those without darkvision will need a torch to see.
+
+> The stairs lead down to a wider tunnel. A shallow trench, about 2 feet below the tunnel floor, runs down the center of the tunnel.
+> To your right is a thick metal grate, spanning wall to wall, and floor to ceiling.
+> The trench itself is filled with acrid water, flowing through and away from the grate into the darkness ahead.
+> Every few seconds you hear the sound of rushing water, as the valves open and dump more water into the tunnel.
+
+- There is a warforged agent of the [[Lord of Blades]] hiding in an alcove above the stairs.
+  - DC18 Wisdom (Perception) check to notice the alcove and him.
+  - Once the PCs enter the valve section below, they get ambushed by him.
+- There are a pair of Feral Shifters at the other end of the tunnel that attack at the same time.
+- Roll Initiative!
+
+> A warforged strikes from the shadows, his rapier piercing the air with deadly efficiency.
+> "You have the provost's journal. Give the book to me, and you can live to see another day. Refuse, and we will make your deaths slow and painful."
+
+- The valves go on initiative count 20.
+  - Roll 2d6 each round. This determines which valve opens each round.
+  - Any creature in line with the valve must make a DC15 Strength save. Failure means they are knocked prone.
+- The warforged will try and escape at around 10hp.
+
+### The Door to Yesterday
+
+> A circular metal hatch, set into the tunnel wall and engraved with arcane runes, must be the sealed door that Elaydren told you about.
+> In the middle of the hatch, a glowing circle of mithral depicts the same icon as on Bonal's journal — the ancient symbol
+> of House Cannith that predates the founding of the Kingdom of Galifar itself, a stylized anvil and hammer.
+
+- The door radiates magic.
+  - The only way to open it is to touch the journal to the door.
+  - If this is done, the arcane runes radiate with mystic fire and the hatch slides open.
+- DC15 Intelligence (Investigation) check reveals small pit marks in the floor and wall near the door.
+  - DC20 reveals tiny runes that ebb and flow in intensity and clearly mark the door as trapped.
+  - DC20 Arcana reveals the trap to be an ancient warding spell.
+- If one of the PCs attempts to damage, force open, or pick the door open - they activate the acid trap.
+  - The trap randomly targets up to 3 creatures within 10 feet.
+  - Each target must make a DC15 Dexterity saving throw.
+    - 2d4 acid damage on failure, half on success.
+- Once the PCs open the door, it reveals a vertical shaft that extends above and below.
+  - Wind gusts strongly from the lower levels up through the shaft to find its way out somewhere above.
+  - There is no ladder, just the pitch black shaft in either direction.
+- There is no way to seal the door behind them. The door is designed only to be opened or closed from the outside.
+  - If they're creative, the PCs might find a way to block the tunnel off.
+  - Consider how this might impede their warforged pursuers.
+
+## The Ruins of Dorasharn
+
+> The vertical shaft is a mix of crumbling earth and ancient stone, and centipedes and other insects cover the walls like living decorations.
+> The long descent takes you deeper into the bowels of Dorasharn Tower.
+> Soon, the shaft begins to angle, and by bracing yourself you can actually walk along one of the surfaces.
+> Farther still, and the shaft becomes a tunnel, and the footing is no longer difficult to maintain or treacherous.
+> The tunnel eventually opens onto a vast chamber, though it emerges about six feet above the floor.
+> You can’t see the distant walls in the darkness, and the ruins of nearby walls and building appear as deep shadows in the eternal tower night, but you can feel the change in air currents and pressure that indicate a large open space ahead of you.
