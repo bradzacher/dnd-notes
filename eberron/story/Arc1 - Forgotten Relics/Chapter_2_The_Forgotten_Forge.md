@@ -243,6 +243,8 @@
 > The trench itself is filled with acrid water, flowing through and away from the grate into the darkness ahead.
 > Every few seconds you hear the sound of rushing water, as the valves open and dump more water into the tunnel.
 
+[map](./images/Chapter_2/Sharn_Sewer.png)
+
 - There is a warforged agent of the [[Lord of Blades]] hiding in an alcove above the stairs.
   - DC18 Wisdom (Perception) check to notice the alcove and him.
   - Once the PCs enter the valve section below, they get ambushed by him.
@@ -282,9 +284,142 @@
 
 ## The Ruins of Dorasharn
 
+[map](./images/Chapter_2/Ruins_of_Dorasharn.png)
+
 > The vertical shaft is a mix of crumbling earth and ancient stone, and centipedes and other insects cover the walls like living decorations.
 > The long descent takes you deeper into the bowels of Dorasharn Tower.
 > Soon, the shaft begins to angle, and by bracing yourself you can actually walk along one of the surfaces.
 > Farther still, and the shaft becomes a tunnel, and the footing is no longer difficult to maintain or treacherous.
 > The tunnel eventually opens onto a vast chamber, though it emerges about six feet above the floor.
-> You can’t see the distant walls in the darkness, and the ruins of nearby walls and building appear as deep shadows in the eternal tower night, but you can feel the change in air currents and pressure that indicate a large open space ahead of you.
+> The large chamber rises to a height of 30 feet, but you can’t see the distant walls in the darkness.
+> The ruins of nearby walls and building appear as deep shadows in the eternal tower night.
+> You can feel the change in air currents and pressure that indicate a large open space ahead of you.
+
+- As the PCs walk out into the space, read the following:
+
+> There's a dull sigh that emanates from the walls of this chamber, as you feel a breeze pushing past you.
+> The wind carries the dull melody of the cave life - the occasion drip, chittering and squeaking, and the rustling of creatures at home in the dark.
+> Some of the sounds occasionally seem to amplify and echo in disturbing ways within this vast underground chamber.
+
+- This chamber is infested with spiders.
+  - Just beyond the first set of walls will be some webs - large webs.
+  - As the PCs explore they will see all sorts of shadows dance in their torchlight as spiders of all sizes crawl through the darkness.
+  - In some places they'll find dusty old skeletons entombed in webbing - picked dry by the spiders.
+  - They'll want to watch their step and proceed cautiously.
+  - Each time they move forward from an encounter, ask for a Dexterity (Stealth) check.
+    - This is an unnecessary role that exists solely to make the PCs think they are specifically hiding from something.
+    - This adds a bit of tension to the chamber.
+    - The arachnid denizens of this chamber are watching them though, and know where the players are.
+    - They will attack at the most dramatic moment in area (4).
+
+> Ahead of you, you can make out an old path leading through the ruins - weaving between the remnants that was once buildings.
+> As you walk slowly through the pitch-black ruins, the torchlight casts innumerable shadows all around the party.
+> In concert with the background noise, the flickering and dancing shadows almost appear to play tricks on your mind.
+> You swear you see something moving, only to look over and just see more ruined stonework.
+
+### Ruined Buildings Choked With Webs (4)
+
+> Proceeding deeper into the chamber, ahead of you looms a set of ruined buildings that are somewhat intact.
+> As you inspect a bit closer, you see the ruins appear to be held together and choked by a mass of webs.
+> Looking deeper into the chamber, it appears this entire chamber is coated with them.
+
+- If the PCs decide to explore these specific ruins, they can easily happen upon some skeletons encased in webs.
+
+> As you push deeper into these buildings, you find a set of skeletons coated in webs.
+> A set of long dead humanoids - in the torchlight their belongings appear to be somewhat intact.
+
+- If the PCs decide to somehow get through the webbing into the bodies.
+  - 24 cp, 30 sp, 50 gp,
+  - A handful of gems worth 50gp.
+  - Two rusted and dulled swords.
+  - A dry and brittle wooden staff.
+  - Dusty and ruined robes.
+
+> The skeletons do not protest as you jostle them and inspect their pockets and pouches.
+> Most of their gear appears to be ancient and in a bad state - rusted, threadbare, and ruined.
+> Amongst their pouches you do find a handful of gems and some ancient coins with marked in a way you don't recognise.
+
+- Whilst the PCs explore this area, they will be attacked by two swarms of spiders and a giant spider.
+
+### Ruined Temple (2)
+
+> The outer walls of this building suggests that it was once a temple of some kind.
+> Built into the broken and ruined columns and rubble, you see various symbols wrought into the masonry.
+> Though somewhat different to today's iconography - you recognise these as the symbols of Onatar, the Sovereign of artifice and the forge.
+> Even in its ruined state, with its roof partially caved in - this place still has a quiet, serene feel about it.
+
+- This place is safe from whatever beasts and creatures roam about these dark caverns.
+- DC20 Intelligence (Investigation) check will reveal an intact font buried beneath the rubble
+  - The font contains a clear and clean liquid.
+  - This liquid is equivalent to a potion of healing.
+  - There is enough for 3 doses.
+
+### House Cannith Foundry (5)
+
+> In the distance you see a building standing tall amongst the rubble.
+> This building is remarkably well preserved; its four walls standing some 20ft tall, and resolute in defiance of their age.
+> Unlike most of the buildings you're used to in Sharn which are built into the city's towers - this stands freely and unattached.
+> A pair of dark metal doors seal away the insides of the building, and inlaid into them you see the now familiar ancient icon of house Cannith.
+
+- The building is almost completely undamaged, save for the hole in the roof.
+- The adamantine doors are locked and all but impervious to damage.
+  - A DC15 lock picking check can be used to open the doors.
+- There is a hole in the roof which can be used to gain access as well.
+  - The walls are easy to climb (DC8 Strength (Athletics) check), and characters can have advantage if thrown a rope.
+
+> A large chunk of the ceiling has fallen in, crushing cabinets and shelves beneath the weight of brick and stone.
+> The remains of what appears to be a metal dog that was also caught in the falling stones juts from the debris.
+> A set of dusty shelves line the southern wall, and a huge forge and furnace fill the eastern part of the room.
+> Neither appears to have been used in centuries.
+> Two pairs of glowing eyes emerge from the far darkness, and you see two metal dogs creeping cautiously toward you.
+
+- Two iron defenders guard the foundry.
+  - They will not attack the character with the journal, nor will they attack a PC with the mark of making.
+  - The player with the journal can attempt to command the defenders to stand down by producing the journal and speaking authoritatively.
+    - A DC10 Charisma (Persuasion) check is required as well.
+- The room contains the following treasure - some wrapped in oilcloth to protect them from the elements:
+  - A suit of mithral scale mail
+  - 3 exceptionally crafted shields (worth 20gp each).
+  - 1 exceptionally crafted longsword (worth 30gp).
+  - 1 exceptionally crafted mace (worth 10gp).
+  - 2 sunrods.
+
+### The Vault
+
+- The dog in the rubble has a rod sticking out of its head.
+  - (If they're alive) The other two dogs have clear indentations in a similar place.
+    - It will take another authoritative command accompanied by a DC12 Charisma (Persuasion) check by the journal's owner to order the dogs to relinquish their rods.
+  - (If they're dead) Similar rods are sticking out of the heads of the two iron defenders.
+
+> The huge forge and furnace combination set into the back of the foundry fill 10 square feet of floorspace between them.
+> They look like a primitive version of the equipment you'd see in any Cannith shop or enclave.
+> Covering the floor around them are metal tiles for an extra 10 feet in each direction.
+> Atop the forge you can see three holes evenly spaced.
+
+- Placing the rods into their respective holes will cause some of the floor panels to shift and open up.
+  - Inside the small space is the following:
+    - 100 sp, 100 gp,
+    - 4 gold ingots each worth 50 gp,
+    - 3 potions of greater healing,
+    - 1 potion of fire resistance,
+    - an old map,
+      - The old map shows a number of cryptic symbols spread throughout what appears to be ancient depictions of the territory now divided between the Mournland and Darguun.
+    - and the schema
+      - A dark metal plate shaped into a seven-pointed star.
+      - About six inches at its longest dimension.
+      - It is covered in strange patterns.
+      - It emanates a strong aura of transmutation magic if looked at under detect magic.
+      - Identify has no effect on it.
+
+## Endgame
+
+- Saber is the last agent of the lord of blades in Sharn right now.
+  - If the PCs slept in the cavern - then he will attack them when they exit the foundry.
+  - If they did not, he'll be waiting in the sewers for them.
+- Saber will fight until he has 10hp left, and then will attempt to flee.
+
+> A flaming crossbow bolt streaks from the rubble surrounding the large stone column.
+> "Weak flesh!" a powerful voice calls out from that direction.
+> "Now you face Saber, greatest of the devoted followers of the Lord of Blades.
+> Throw down the schema and walk away.
+> This day does not have to end with your blood on my hands."
