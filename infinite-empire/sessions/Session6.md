@@ -1,4 +1,4 @@
-# Session 5 - Monday October 26th 2020
+# Session 6 - Monday October 26th 2020
 
 - [[Nairoladnam]] ran in to attempt to steal from the wizard...
   - He thwarted her attempt easily
@@ -19,3 +19,9 @@
 - Exploring the tomb:
   - We hear chanting:
     - Forget no insult, my sons, as I have never forgotten those of my father, of the Emperor, nor those of She Who Thirsts. Forgive no slight or grievance. Hold your bitterness deep within, and there let it fester. Let it roil and squirm and churn, until you are filled with bile so poisonous that all you touch falls to ruin. Thus shall you serve the Urfather best. Thus shall you spread his virulent gifts across the false Imperium, and watch its final rotting...
+- We encountered a town on the way to the temple
+  - They hadn't had visitors for a long time
+  - They used to have pilgrims heading towards the temple
+- We fought an owl / spider hybrid creature in the temple
+  - Lots of lizard people too
+  - Some weird two-headed crocodile
