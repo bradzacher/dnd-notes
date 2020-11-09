@@ -423,3 +423,17 @@
 > "Now you face Saber, greatest of the devoted followers of the Lord of Blades.
 > Throw down the schema and walk away.
 > This day does not have to end with your blood on my hands."
+
+## Conclusion
+
+- The players can return to the Broken Anvil and find Lady Elaydren waiting for them
+  - This time she wears a shimmering blue glamerweave gown, and has a powerful looking bodyguard at her side.
+
+> "You have my thanks - and the thanks of my house.
+> If you wouldn't mind, I would be honoured if you would agree to assist me further.
+> You've proven yourselves more than capable, and I trust that you'd be able to help me find the other pieces.
+> There will, of course, be further payment befitting the services you're offering."
+
+- If the PCs accept - she asks for the journal back so that she may study it some more to uncover the next location.
+- She will pay the PCs the agreed upon amount - and figure out the nearest messaging station at which she can reach them.
+  - The Sivis messaging station at Barmin Tower.

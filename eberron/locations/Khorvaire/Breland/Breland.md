@@ -2,7 +2,7 @@
 
 Capital
 
-- Wroat
+- [[Wroat]]
 
 Hallmarks
 

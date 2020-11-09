@@ -2,7 +2,7 @@
 
 Capital
 
-- Fairhaven
+- [[Fairhaven]]
 
 Hallmarks
 
