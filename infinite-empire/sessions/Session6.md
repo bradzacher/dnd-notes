@@ -11,7 +11,7 @@
 - His gemwright was taken by Thessalar
   - He wants us to get them back from the Temple.
     - "We wil recognise him"
-    - Seodra is his name
+    - [[Seodra]] is her name
   - He is paying us handsomely to do this
   - There will be traps
   - And monsters
