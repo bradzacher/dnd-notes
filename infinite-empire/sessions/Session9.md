@@ -1,0 +1,21 @@
+# Session 9 - Monday November 17th 2020
+
+- At the temple
+  - We met [[Thessalar]]
+    - He's strong.
+    - To save our lives we agreed to go steal the gem skull plans from [[Moghadam]].
+    - Thessalar said Moghadam won't pay us and is shit.
+    - He called the temple "the eye"
+  - Shimmery blue robe mage Ard-Sagart
+- Back at the tomb
+  - [[Moghadam]] tried to kill us!! Rude.
+  - We killed him.
+    - Maybe? His brain teleported away or something
+  - We found in his room:
+    - 1x adamantine breastplate
+    - 3x scrolls
+    - 1x wand (unidentified)
+    - 1x forgery kit
+    - 1x calligraphy kit
+    - 30pp
+    - Ledger listing payments to the dark dwarves
