@@ -138,7 +138,7 @@ The message reads:
     - 3 vials of holy water
     - 3 potions of healing
     - A tiny rod of blue metal, three inches in length, with a sapphire embedded at one end
-    - 1 pouch containing 150 pp
+    - 1 pouch containing 250 pp
     - 1 casket containing 500 gp
 - Lady Elaydren's note reads as follows:
 
@@ -186,7 +186,7 @@ The message reads:
         - The lighting rail line will get them to Sterngate on the Brelish border to Zilargo.
         - Then by foot or by caravan through Marguul Pass along the Orien trade route will get them to Rhukaan Draal.
         - DC 15 Intelligence (History) check will reveal that Marguul Pass is in the territory of some less-than civilised bugbears.
-        - This will cost 250gp for the lightning rail ticket, and 75gp for the coach ticket (can be discounted with Vlad).
+        - This will cost 250gp each for the lightning rail ticket, and 75gp for the coach ticket (can be discounted with Vlad).
         - This will take around 2 weeks total.
       - By Sea:
         - A House Lyrandar Galleon.
