@@ -264,15 +264,25 @@ The message reads:
   - On the second round of combat, the wagon behind the one which the PCs are assigned to will be shrouded in a fog cloud, providing concealment from goblin archers
   - On the third round of combat, a fireball explodes on the hillside farther up the caravan, taking out a large number of the attackers.
 
-### Rhukaan Draal & The Bloody Market
+### [[Rhukaan Draal]] & The Bloody Market
 
 > It is mid-morning when you finally arrive in Rhukaan Draal.
-> The goblinoid city was built around what was once a Cyran frontier town, and today it has grown into a sprawling goblinoid metropolis.
-> The city appears as a crazy architectural tapestry; mud and timber huts surround ancient structures of stone and brick,interspersed with canvas tents and pavilions.
+> Rhukaan Draal is, in many ways, a city of contrasts.
+> It has only been inhabited by goblins for the past two decades, having been built around what was once a Cyran frontier town.
+> Today it has grown into a sprawling goblinoid metropolis.
+> The city appears as a crazy architectural tapestry; mud and timber huts surround ancient structures of stone and brick.
+> These buildings are interspersed with a maze of canvas tents and pavilions, built up in every bit of available open space.
 > Most of the roads are bare earth, and few of the wonders or conveniences of Sharn are evident here.
-> Within this ramshackle city, a single building dominates the skyline—an enormous tower of red stone that rises up from the very center of the city.
+> Within this ramshackle city, a single building dominates the skyline — an enormous tower of red stone that rises up from the very center of the city.
 > This is Khaar Mbar'ost, the court of the Lhesh Haruuc, the hobgoblin king.
+> It is a ten-story structure of red granite built recently by House Cannith artisans to dominate the city's skyline... and it does this quite effectively.
+>
+> The bulk of the population are goblinoids.
+> Timid goblins scurry out of your way while hobgoblins and the occasional band of bugbears swagger about, seeming to dare you to get in their way.
+> A few humans the like are scattered throughout the streets – merchants and smugglers looking for goblin gold,
+> or fugitives who have fled to Darguun to escape the justice of their homelands.
 
+- The PC's journey to the city will end in the Warehouse district.
 - Any of the party's travelling companions can direct them to the Bloody Market, and it's not hard to find.
   - The Bloody Market takes its name from the violent haggling that commonly occurs among the goblinoids, although guards defend merchants if blood is actually shed.
   - An ocean of tents and milling goblins fills the marketplace.
@@ -283,6 +293,7 @@ The message reads:
     - On a 1 - the NPC directs the PCs to the Clenched Fist - a nearby bar that caters to non-goblins.
     - On a 6 - the NPC directs the PCs to meet with Old Went - a hobgoblin who knows practically all the humans in Rhukaan Draal.
     - On a 2, 3 or 4 - the NPC sends the PCs on a wild goose chase.
+- http://dndspeak.com/2018/03/100-market-stalls/
 
 #### Old Went
 
@@ -297,7 +308,7 @@ The message reads:
 - Old Went knows Failin and will let the PCs know to look for him at the Clenched Fist with a DC 20 Charisma (persuasion) check.
   - He will make it obvious that he expects payment and the DC of the Persuasion check will be reduced by 2 for each 10 gp worth of a bribe he is given.
   - With a bribe of 100 gp or more, no check is needed.
-  - If the PCs try to intimidate Old Went, he’ll laugh and tell them to find Failin at the Clenched Fist.
+  - If the PCs try to intimidate Old Went, he'll laugh and tell them to find Failin at the Clenched Fist.
     - However, word will quickly get around that the PCs are trouble, and any future dealings they have in Rhukaan Draal will become more far difficult.
 
 #### The Clenched Fist
@@ -305,6 +316,8 @@ The message reads:
 > From the outside it looks uninviting, broken and ugly.
 > Stacked stones and well-crafted wooden beams make up most of the building's outer structure.
 > It's hard to see through the high windows, but the uncomfortable atmosphere from within can be felt outside.
+>
+> The placard above the door displays a mummified ogre's hand clenched tightly in a fist and nailed in place.
 >
 > As you enter the tavern through the heavy, metallic door, you're welcomed by watching eyes and a horrific scent.
 > The bartender is rubbing a glass with a cloth, though it's not getting cleaner and makes no effort to acknowledge your presence.
@@ -317,7 +330,47 @@ The message reads:
 - The barkeep is Darna, a friendly human woman who wears a wide variety of brightly colored silk scarves.
 - The patrons all look various shades of seedy and dangerous - not the type of people you want to encounter in a dark alleyway.
 - At one of the tables sits a man, facing the doorway and sipping deeply from a tankard of ale.
+  - The PCs can ask around for anyone to point him out.
 
-> White, curly hair tight in a ponytail reveals a bony, frowning face.
-> Sparkling aquamarine eyes, set narrowly within their sockets, watch guardedly over the tavern, and eye you off as you approach.
-> Freckles are spread elegantly across his cheeks and leaves a gracious memory of his reckless luck.
+> A shock of unruly red hair with greying roots frames an weathered, bony face.
+> Sunken in their sockets - a pair of dull aquamarine eyes, watch guardedly over the tavern, and eye you off as you approach.
+> The man's weathered and lined skin contrasts with his clean, and well-tailored clothing.
+
+- Failin waits for the adventurers to say what they want. He says little, but when he does speak he talks in rapid-fire bursts.
+  - Failin is an old human - around 70 years old, though he is surprisingly sprightly.
+  - Failing is a Excoriate - a dragonmarked heir that has been stripped of his name and association with the house.
+    - One of the keen-eyed PCs will notice the back side of his left forearm is heavily scarred and badly mutilated.
+    - Failin will dodge and brush off any question about the scars, saying that it's just the remnants of a job gone wrong.
+- If the PCs explain that they want to get to Rose Quarry:
+
+> Rose Quarry? Very far away. Near the border. Near the gray mist. Mining town.
+> I can take you. Yes. But it will cost you. Sixty gold each, forty up front.
+> You bring your own supplies.
+
+- A DC 15 Charisma (Persuasion) check can reduce the price by one gp per person for each point the result is over 14.
+  - If the PC is a member of House Orien and calls upon Failin's loyalties, the check has advantage, but in this case the price will be doubled if the check fails.
+
+#### Bugbear Brawl
+
+> "Let's go, let's go," Failin says, leaping up from the table and gesturing toward the door. "Follow me, quickly! My land cart is hidden nearby."
+
+- On their way to the land cart, Failin and the PCs are interrupted when three bugbears step out of the shadows and confront Failin.
+
+> "Failin, you cheat us!" growls one of the bugbears as both of them raise their morningstars to threatening positions.
+
+- Failin cheated them in their last deal - only delivering half of the goods.
+  - The bugbears can be negotiated with, but tensions are high - they're all too willing to beat Failin to a pulp.
+  - DC15 Charisma (Persuasion) check
+
+#### The Elemental-Powered Land Cart
+
+> Failin leads you to a large stone outcropping in a secluded area not far from the Bloody Market.
+> He rolls up his right sleeve to expose his scarred forearm and steps forward to touch the the stone.
+> As he mutters a strange word, you watch as his forearm glows in a strange pattern.
+> He steps back as the stone rumbles, and a strange covered wagon emerges from the rock wall.
+> The four-wheeled vehicle has a canvas cover that encloses a large rear compartment, while an open bay at the front features a bench and foot well.
+> The wagon appears to be made of wood, but an undulating pattern of constantly shifting rock, gem, and crystalline structures seem to overlay the wagon's wooden frame.
+> "My land cart," Failin says in a quick burst. "Earth elemental powered. Get in. Time's short. Long road ahead."
+
+- Any PC with experience with dragonmarks can make a DC15 Intelligence (History or Arcana) check to recognise the glyph of the Mark of Passage.
+- Any PC that can speak draconic will recognise that he simply said the word "travel".
