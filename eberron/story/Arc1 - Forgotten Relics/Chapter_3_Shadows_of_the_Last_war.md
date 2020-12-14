@@ -452,12 +452,17 @@ The message reads:
 
 ### R1 - Emerald Claw Camp
 
+- The Order of the Emerald Claw arrived at Rose Quarry three days ago.
+  - Since then, the soldiers of the order have been excavating the village in search of clues to the location of the Whitehearth facility.
 - The PCs should definitely _not_ attempt to fight this camp.
   - Make it very clear that there are around 15 bodies total in the camp - they are severely outnumbered.
   - If they are still itching for a fight - make it clear that the guards appear well armed and well trained.
-- The Order of the Emerald Claw arrived at Rose Quarry three days ago.
-  - Since then, the soldiers of the order have been excavating the village in search of clues to the location of the Whitehearth facility.
-- If one of the PCs sneaks within 50ft of the camp, read:
+- Sneaking past the camp requires a DC10 Dexterity (Stealth) check.
+  - If the check fails by 1-4, they get heard, and a patrol of 3 soldiers and 2 skeletons will investigate
+  - If the check fails by 5 or more, they are spotted and Keltis, 5 soldiers and 4 skeletons will pursue them.
+- After about 5h (so around midnight), 5 of the soldiers will go to sleep.
+  - This will slow the soldier's reaction time by 2 rounds, and the soldiers will be unarmored.
+- If the PCs get within 50ft of the camp, read:
 
 > From this spot, you get a clearer view of the camp.
 > Six humans are gathered around the fire, and four skeletons armed with scythes stand in silent vigil nearby.
@@ -474,9 +479,11 @@ The message reads:
   - If anyone in the camp spots the PCs, the cleric, five soldiers, and four skeletons are sent to pursue the intruders, while the remaining soldiers provide ranged weapon support.
 - Treasure
   - Keltis carries:
+    - 2pp, 8gp, 5sp
     - A potion of healing
     - An ornate dagger with a hilt inlaid with Mabaran ebony and carved with Blood of Vol iconography (worth 100gp)
   - Mallora carries:
+    - 3pp, 2gp, 6sp
     - Wand of Magic Missiles
     - Mabaran Ebony Focus
     - Spellshard with the following spells:
@@ -547,6 +554,42 @@ The message reads:
 > The roof, doors, and upper floors have been reduced to cinders and rubble.
 > Light can be seen glowing from deep inside the building.
 
+- Inside the building are:
+  - 4x emerald claw soldier
+  - Kaela (military commander)
+  - Glass Dwarf Ghoul
+- The emerald claw are trying to decipher the map.
+  - The dwarf is carting rubble to the entry rooms.
+
+> The large 50-foot-wide chamber has been cleared of most of the rubble and glass you’ve seen throughout the rest of the village.
+> The floor emerges from the shattered glass, formed from red marble and decorated with an embossed design.
+> The large chamber contains a few enormous blocks of rough red stone.
+> This place was probably where the marble was shaped, polished, and prepared for shipping.
+> Large fireplaces occupy the center of the north, south, and west walls, each made of a different type of stone:
+>
+> - red stone for the north,
+> - white stone for the south, and
+> - black stone for the west fireplace.
+>   Six statues stand around the room, two to each side of one of the fireplaces:
+> - A dragon and a lion carved from red marble stand by the north,
+> - A wolf and a falcon carved from white marble stand by the south, and
+> - An armored knight and a griffon carved from black marble stand by the west.
+>   The floor of the chamber features a detailed map of central Khorvaire showing the nations of Aundair, Cyre, Karrnath, Thrane, and Breland.
+>   While cities, topographical features, and even major mines are shown in bas relief on the map, no text identifies the locations.
+
+- On the back of the statue's heads are the following carvings:
+  - Red Dragon: "Whitehearth, White Seal, NE 9."
+  - Red Lion: "Tallis, Black Seal, E 4."
+  - White Wolf: "Cabblen Hall, Red Seal, SW 15."
+  - White Falcon: "Blackhearth, Black Seal, SE 12."
+  - Black Knight: "Kronu Hall, White Seal, N 6."
+  - Black Griffon: "Redhearth, Red Seal, SE 7."
+- The message indicates the fireplace to start at, the direction and number of paces to walk in.
+- The only one that they care about now is Whitehearth:
+  - This map reveals that Whitehearth is in a mine approximately thirty miles beyond the gray-mist border of the Mournland, directly due east of the hamlet of Olkhaan.
+
+Area notes:
+
 - Light
   - Sunrods provide bright illumination within the refinery.
 - Sound
@@ -556,5 +599,12 @@ The message reads:
 - Reaction
   - On noticing intruders, the soldiers draw their weapons and attack.
   - The glass zombie drops the load it carries and attacks upon spotting the PCs.
+- Treasure
+  - Kaela carries:
+    - A potion of healing.
+    - +1 shield bearing the symbol of the emerald claw.
+    - 12 GP, 5sp
+  - DC15 Intelligence (Investigation) check will discover:
+    - A casket containing 50pp and a bottle of Oil of Slipperiness labelled Compound 12.
 
 ### R4 - Ruined Church
