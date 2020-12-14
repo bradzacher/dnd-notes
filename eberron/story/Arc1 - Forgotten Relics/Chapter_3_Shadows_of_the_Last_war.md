@@ -551,7 +551,7 @@ The message reads:
 
 > This large building, constructed of walls of red marble, has the engraved symbol of an anvil and gorgon carved into the keystone above the arched doorway—the symbol of House Cannith.
 > While the outer walls are intact, little else is left of the building.
-> The roof, doors, and upper floors have been reduced to cinders and rubble.
+> The doors and upper floors have been reduced to cinders and rubble.
 > Light can be seen glowing from deep inside the building.
 
 - Inside the building are:
@@ -608,3 +608,53 @@ Area notes:
     - A casket containing 50pp and a bottle of Oil of Slipperiness labelled Compound 12.
 
 ### R4 - Ruined Church
+
+> The structure before you appears to be a church, and you can see symbols of the Sovereign Host carved into the stone walls.
+> The roof has fallen in, but the walls appear solid and strong.
+> A graveyard sits behind the church, and the sounds of tools striking glass echo from that direction.
+
+- Inside the church:
+  - Rubble from the collapsed ceiling fills the interior of the church.
+  - The altar can be seen poking up through the debris, but rubble and a coating of glass obscure all other features of the interior area.
+  - A DC18 Wisdom (Perception) or DC14 Intelligence (Investigation) check reveals: Oladra's Chalice
+- The graveyard out the back:
+  - In the graveyard behind the church, the PCs spot four glass dwarf zombies chipping away at the sheets of glass that the red marble gravestones.
+  - Four of the graves have already been emptied, and the remains of four dwarves have been piled to one side waiting for Garrow's attention.
+  - If Garrow has not been encountered earlier in the adventure, he watches the zombies work from the shadows beneath a glass-coated tree (DC18 Wisdom (Perception) check to see him).
+
+Area notes:
+
+- Light:
+  - Moonlight provides shadowy illumination within the ruined church and in the cemetery behind it.
+- Sound
+  - As the PCs approach this location, it becomes clear that it is a source of the sounds of excavation that echo throughout the ruins.
+- Reaction
+  - None.
+  - No enemy waits within the church, and the zombies working in the cemetery are solely devoted to the task that Garrow has assigned them.
+  - Garrow is treated as a separate encounter; he might show up in area R3 after the PCs interpret the map, he might deal with them if they approach the cemetery, or he might appear anywhere else in the village if the PCs draw enough attention to themselves.
+
+### Garrow
+
+- The priest named Garrow commands this Emerald Claw expedition.
+- The encounter with Garrow serves as the dramatic capstone of the PCs' exploration of Rose Quarry.
+- The PCs can encounter Garrow in a number of different locations.
+  - If the PCs make a significant amount of noise while exploring the Cannith refinery, Garrow shows up to investigate the disturbance after the adventurers have had time to unravel the mystery of the map room.
+  - If they investigate the sounds coming from behind the ruined church, Garrow emerges from the shadows and greets them.
+  - If the adventurers defeat the soldiers in area R3 and solve the riddle of the map room without alerting the rest of the village, Garrow crosses paths with them as they near the edge of the village on their way back to Failin and the land cart.
+
+> A tall, emaciated man, wearing a beautiful hooded robe of black silk, slides out of the shadows.
+> He has deathly white skin, and a thick scar runs from the corner of one gleaming red eye back past a pointed ear.
+> He smiles, flashing sharp fangs.
+> "What have we here?" he hisses, measuring you with a casual glance of his crimson gaze.
+
+- Garrow wants the party to escape:
+  - He sends his vulture zombie from area R1 to follow the party and spy on their progress from a discreet distance.
+
+### Escaping From Rose Quarry
+
+- After the encounter with Garrow, the adventurers should have the impression that they need to leave as quickly as possible.
+- According to the map, Whitehearth lies thirty miles into the Mournland.
+- If the PCs can convince Failin to take them in the land cart, they can reach the location in about 3-1/2 hours.
+- It might take more gold, a DC 18 Charisma (Persuasion) check, or both, to convince Failin to brave the dangers of the Mournland.
+- Otherwise, the adventurers must travel on foot or steal some of the horses from the Emerald Claw camp.
+- Either way, Garrow has his men make a show of chasing the PCs, but he wants them to escape and lead him to the location of Whitehearth.
