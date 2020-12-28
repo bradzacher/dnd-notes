@@ -177,3 +177,9 @@ A dedicated search will find items as listed below:
 - Each of the categories above is cumulative.
   - Exceeding the DC of a check by 5 or more will find an item from the next category as well.
   - Additional time spent searching will only turn up mundane equipment and a few additional copper pieces.
+
+## The Mouth of the Mine
+
+> At the base of a low hill, a timbered opening leads into a dark tunnel.
+> At first glance, it looks like any other abandoned mineshaft.
+> Then, with a more careful inspection of the opening, you spot the House Cannith seal emblazoned on the center crossbeam.
