@@ -103,7 +103,7 @@ Whitehearth was carved out of the stone using powerful magic. Unless otherwise n
     - One one of the fingers is a signet ring bearing the House Cannith seal.
       - If the ring is removed, the seal fades away.
 
-### W7. Emergency Stores
+## W7. Emergency Stores
 
 - The door is locked: DC15 Lockpicking check.
   - Not locked by a keycharm.
@@ -117,7 +117,7 @@ Whitehearth was carved out of the stone using powerful magic. Unless otherwise n
   - 1x potion of vitality
   - 1x potion of fire resistance
 
-### W8. Support Wing
+## W8. Support Wing
 
 > A corridor of plain gray stone extends ahead of you.
 > In the flickering light from the dim everbright lanterns embedded in the walls, you see a few trails of crusted blood running along the floor, as if someone was dragged down the corridor.
@@ -189,6 +189,7 @@ Whitehearth was carved out of the stone using powerful magic. Unless otherwise n
     - 1x longsword (125gp)
     - 1x shortsword (100gp)
     - If sold together, these weapons are worth 600gp.
+  - The chain shirt is an armour of gleaming
   - The wardrobe has a simple lock that can be unlocked with a DC5 check:
     - Inside are an assortment of clean and pressed uniforms, leather boots.
     - A **darkweave cloak**
@@ -197,7 +198,7 @@ Whitehearth was carved out of the stone using powerful magic. Unless otherwise n
       - A ring of silver and jet set with an oval-cut bloodstone (100gp)
       - 1x potion of hill giant strength
       - 1x oil of sharpness
-      - **yellow keycharm**
+      - **_yellow_ keycharm**
 
 ## W12. Office
 
@@ -214,7 +215,7 @@ Whitehearth was carved out of the stone using powerful magic. Unless otherwise n
 
 ## W13. Dining Hall
 
-> A steamy haze
+> A steamy haze wafts out of the doorway.
 > Four long tables are set up around the main room, and an archway on the far wall leads into a large kitchen.
 > Ten corpses lie around the room - slumped over the tables and their now rotten last meals.
 
@@ -342,7 +343,7 @@ Whitehearth was carved out of the stone using powerful magic. Unless otherwise n
 > Then, with an angry crackle of flame and a threatening hiss of steam, the bonfires begin to move toward you.
 
 - There are two Fire Elementals in this room which will attack as soon as they see the PCs
-- The heat in the room is extreme (>100 degrees F)
+- The heat in the room is extreme (>110 degrees F)
   - Creatures who begin their turn within 5 feet of the crucible filled with molten glass must make a DC 12 Constitution saving throw or take 3 (1d6) fire damage.
 - The dome controls require a DC20 Intelligence (Arcana or Investigation) check to understand (one action), and an action to use.
   - A PC can also try and just use the controls without understanding them with a Wisdom check at disadvantage:
