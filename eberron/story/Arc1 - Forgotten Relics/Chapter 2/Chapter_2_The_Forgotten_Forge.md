@@ -243,7 +243,7 @@
 > The trench itself is filled with acrid water, flowing through and away from the grate into the darkness ahead.
 > Every few seconds you hear the sound of rushing water, as the valves open and dump more water into the tunnel.
 
-[map](./images/Chapter_2/Sharn_Sewer.png)
+![map](./images/Sharn_Sewer.png)
 
 - There is a warforged agent of the [[Lord of Blades]] hiding in an alcove above the stairs.
   - DC18 Wisdom (Perception) check to notice the alcove and him.
@@ -284,7 +284,7 @@
 
 ## The Ruins of Dorasharn
 
-[map](./images/Chapter_2/Ruins_of_Dorasharn.png)
+![map](./images/Ruins_of_Dorasharn.png)
 
 > The vertical shaft is a mix of crumbling earth and ancient stone, and centipedes and other insects cover the walls like living decorations.
 > The long descent takes you deeper into the bowels of Dorasharn Tower.

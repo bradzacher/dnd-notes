@@ -158,7 +158,6 @@ Nherdun Bushen
 Ruder Bhukhin
 Rorver Boulderspear
 Vui Havenhand
-Kibil Run
 Har Bavrug
 Onver Daywolf
 Ruth Moltenstream
@@ -169,7 +168,6 @@ Vlidjic Gergorno
 Zo Iy
 La Seing
 Grierenti Pedrildas
-Orfon Ihise
 
 ## Kalashtar
 

@@ -1,5 +1,7 @@
 # Part 6 - Showdown
 
+## Ambush
+
 - Garrow and his Emerald Claw soldiers have followed the PCs to Whitehearth and wait to ambush them when they exit.
   - Garrow wants to conduct this encounter peacefully. His troops won't attack until he orders it.
 
@@ -80,3 +82,46 @@
     - Ornate Dagger - it's hilt is inlaid with labradorite and Mabaran ebony and carved with Blood of Vol iconography (250 gp)
   - Cultists carry:
     - 2gp, 23sp
+
+## Meeting with Lady Elaydren
+
+> The land cart rolls its way through the familiar streets of Rhukaan Draal, as Failin pilots through the streets to his hiding place.
+> As you disembark and Failin prepares his illusion, you see a small bugbear running around the corner.
+> As he reaches you he doubles over, wheezing deeply.
+> After a few seconds of him catching his breath, he says something in goblin.
+> Failin turns to him and snaps a retort back goblin, and then says "In common, boy."
+> The boy pokes his tongue out at Failin and then turns to you and takes a second as he is clearly trying to translate it in his head.
+> Then in a thickly accent common he says proudly "The red lady at the gripped fist."
+> You see Failin shake his head, as he says something back in goblin and clarifies for you "The red lady is at the _clenched_ fist."
+> "It's clenched, not gripped boy."
+> You see the boy sneer at Failin again and then stand there expectantly.
+
+- Lady Elaydren will meet them in Rhukaan Draal at The Clenched Fist.
+  - She will be in much better shape than last they met - though she will still not be in finery - she's wearing a simple traveller's cloak.
+  - Her guard sits proudly with her - Orfon Ihise - a hardened veteran of the last war now turned mercenary.
+  - The two still stick out amongst the patrons of The Clenched Fist.
+- If the PCs triumphed:
+  - If they give Elaydren the schema, she will pay them 200pp.
+  - If they give Elaydren the pattern, she'll throw in an extra 100pp.
+  - If they mention that Garrow talked of another schema, then read below
+    > "Then it is true, the Emerald Claw has found one or more of the schemas."
+- If the PCs failed:
+  - If they give Elaydren the pattern, she'll pay them 100pp.
+  - Lady Elaydren is disappointed in the loss of the schema.
+    > "The Emerald Claw now has three of the schemas."
+
+> "Time indeed grows short for us all.
+> This is dire news - perhaps it is time to truly go on the offensive."
+> She considers for a moment.
+> "There's no time to waste, we must make haste back to Sharn - you can fill me in on all of the details on the way."
+> "If you'll accompany me back to Sharn and ensure my safety, I'll see to it that you receive an additional 1,000gp when we arrive"
+> She says with a smile.
+
+- Lady Elaydren will pay for their trip, by sea, if they travel with her.
+  - Captain of the ship = Bromwell d'Lyrandar
+  - Other names:
+    - Lyndon
+    - Günther
+    - Bede
+    - Ladislaus
+  - The voyage goes by without issue.
