@@ -291,7 +291,7 @@
 > Soon, the shaft begins to angle, and by bracing yourself you can actually walk along one of the surfaces.
 > Farther still, and the shaft becomes a tunnel, and the footing is no longer difficult to maintain or treacherous.
 > The tunnel eventually opens onto a vast chamber, though it emerges about six feet above the floor.
-> The large chamber rises to a height of 30 feet, but you can’t see the distant walls in the darkness.
+> The large chamber rises to a height of 30 feet, but you can't see the distant walls in the darkness.
 > The ruins of nearby walls and building appear as deep shadows in the eternal tower night.
 > You can feel the change in air currents and pressure that indicate a large open space ahead of you.
 

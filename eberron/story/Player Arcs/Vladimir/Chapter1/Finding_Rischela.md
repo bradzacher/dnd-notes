@@ -19,14 +19,14 @@
     - When a creature enters the estate for the first time, an illusion of a unicorn appears nearby the creature and brays loudly, announcing its presence.
   - Two guards stand to attention at the front.
 
-> Many of the grand homes in Mithral Tower are true to the district’s name, boasting mithral filigree.
+> Many of the grand homes in Mithral Tower are true to the district's name, boasting mithral filigree.
 > The Sharn Watch seems to be everywhere in this neighborhood full of busy scions climbing into skycoaches, hosting opulent parties, and showing off their latest purchases at all hours of the day.
 >
 > Unicorn Estate has a grand unicorn statue and unicorn-shaped topiaries adorning the yard beyond an open, wrought-iron gate.
 > Flanking this gate are two guards in House Orien livery.
 > Each wears a beautiful helm shaped like the head of a unicorn.
 >
-> The magnificent marble home is clearly owned by one of the city’s wealthiest dragonmarked families.
+> The magnificent marble home is clearly owned by one of the city's wealthiest dragonmarked families.
 > Seated on a patio couch is a single man smoking an ornate pipe.
 > Two more guards dressed like the ones at the gates stand nearby.
 
@@ -92,13 +92,13 @@
 
 - The basement workshop.
 
-> You open the door and the first thing you can see is the 3 creatures of living lightning darting around the room.
+> You open the door and the first thing you can see is the 2 creatures of crackling lightning darting around the room.
 > They notice the open door and dart towards you in an instant.
 > See a flash of shimmering light and a set of runes on the ground glow as they collide with a barrier.
 > The creatures let out a distorted roar as they bounce around their container, trying desperately to find a way out.
 >
 > There is a circle of runes drawn onto the ground, creating a 20ft radius circle.
-> At the center of the barrier, you see another, smaller circle - about 5ft diameter.
+> At the center of the barrier, you see another, smaller circle - about 5ft diameter, that glows dimly.
 >
 > Taking a moment to look around the room, it looks to be a workshop of some kind.
 > There are numerous desks covered in parchments, tools and crystals.
@@ -110,4 +110,33 @@
   - Make sure to make it feel like a pressing problem
     - Describe the sounds and flashes.
     - Describe how the sound and light of the barrier gets softer with each hit.
-  - They can dispel the barrier early or let it fall.
+  - They can dispel the barrier early or let it fall on its own.
+- After combat, the middle ring still continues to glow softly.
+- A quick search of the parchments strewn around the room will reveal some research on planar travel.
+  - Amongst the parchments is a scroll of _teleportation circle_.
+    - Any character with spellcasting can use the scroll.
+    - Any character with the Mark of Passage can instinctively activate the circle.
+
+## Castle
+
+> A warm feeling builds within you.
+> Moments later you start to taste metal.
+> Then in an instant your vision is filled with a blinding white.
+> You blink your eyes for a bit as your vision clears.
+>
+> Around you, you see the small research room has been replaced with a vast, vast hallway.
+> The stones that make up the wall are each taller than you, and the ceiling is some 50 feet above you.
+> Beneath your feet is a beautiful, blue carpet - appearing slightly singed in your immediate vicinity.
+> Behind you is an immense wooden door, some 30 feet across.
+>
+> The light in here is bright; light by some massive torches in sconces high up on the walls.
+>
+> The hallway is mostly quiet. Through the cracks in the doorway you can feel a cold, moist breeze.
+> And with it, it brings the pitter-patter of rain outside, and a low whistling.
+
+- The castle is empty, save for the throne room.
+- They can wander the halls for as long as they want.
+- Eventually they will hear sounds of battle coming from further along the hall.
+  - As they approach the sound, they see some familiar piles of blue dust and some scorch marks on the ground
+  - They see a human surrounded by 6 small sparks of lightning.
+  - They can see he is clearly worn down and injured from a prolonged battle.

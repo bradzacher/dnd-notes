@@ -127,13 +127,11 @@ https://www.fantasynamegenerators.com/dnd-halfling-names.php
 Zalric
 Belvias
 Oszor
-Linyver
 Pangin
 Kasemin
 Neemin
 Connad
 Idozin
-Flynkas
 
 ## Hobgoblin
 

@@ -158,7 +158,7 @@ Whitehearth was carved out of the stone using powerful magic. Unless otherwise n
 
 - Treasure:
   - The chests scattered around the room are unlocked.
-  - They mostly contain artisan’s outfits, artisan’s tools, and other mundane items.
+  - They mostly contain artisan's outfits, artisan's tools, and other mundane items.
   - A few of the chests belonged to guards. These contain:
     - 5 chain shirts,
     - 3 longswords,

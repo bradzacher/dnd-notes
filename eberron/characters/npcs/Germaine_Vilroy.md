@@ -15,7 +15,7 @@ Description
 
 Personality
 
-- Gruff and doesn’t like wasting time.
+- Gruff and doesn't like wasting time.
 
 Notes
 

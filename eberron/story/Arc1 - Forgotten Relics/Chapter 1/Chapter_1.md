@@ -4,7 +4,7 @@
 
 > An orange glow covers the top of Lyrandar Tower as the sun sinks in the sky. Above, the great airships of House Lyrandar float like leviathans surrounded by brilliant rings of elemental energy. Below, bridges crisscross at all levels of the city, connecting Sharn's great towers. The sounds of crying children, barking vendors, cursing skycoach drivers, and braying hippogriffs rise up to become a unique din that can only be heard in the City of Towers.
 >
-> Each of you carries a letter from your acquaintance Sergeant Germaine Vilroy of the Sharn Watch that reads, "I’m calling on you for a job. I can’t write the details, but it pays well and requires your skills. Meet me at the airship dock on top of Lyrandar Tower. Come armed."
+> Each of you carries a letter from your acquaintance Sergeant Germaine Vilroy of the Sharn Watch that reads, "I'm calling on you for a job. I can't write the details, but it pays well and requires your skills. Meet me at the airship dock on top of Lyrandar Tower. Come armed."
 
 (after players introduce themselves)
 
@@ -16,7 +16,7 @@
   - Germaine has an appointment to meet with a warforged named [[Coal]], who claims to have knowledge of a crime being committed in [[Old Sharn]]. Germaine wants the party to meet with Coal first and see if what she says adds up. Germaine is worried that, with her status as a Watch sergeant, her presence will call undue attention and endanger Coal.
   - Germaine can give the characters 25 gp each now and another 50 gp each if they bring in Coal.
   - If the characters consent to meet with Coal, Germaine provides the location of the Cog Carnival, a bar in High Walls frequented by warforged, and the appointed meeting time.
-  - Germaine also provides a Sharn Watch writ of enforcement. The writ authorizes the bearers to conduct official duties of the Watch under Sergeant Vilroy's authority. City workers and other members of the Watch respect the writ, sometimes grudgingly, as long as the characters don’t engage in flagrantly illegal activity.
+  - Germaine also provides a Sharn Watch writ of enforcement. The writ authorizes the bearers to conduct official duties of the Watch under Sergeant Vilroy's authority. City workers and other members of the Watch respect the writ, sometimes grudgingly, as long as the characters don't engage in flagrantly illegal activity.
 
 ### Secrets
 
@@ -34,7 +34,7 @@
 
 ## High Walls and the Cog Carnival
 
-> The stench of body odor, garbage, and tobacco mix together in the streets. High walls cut this district’s crumbling, vandalized buildings off from the rest of Sharn, though towers rise over the walls like imposing sentries. Many people stand idly on street corners, eying you suspiciously and keeping to themselves.
+> The stench of body odor, garbage, and tobacco mix together in the streets. High walls cut this district's crumbling, vandalized buildings off from the rest of Sharn, though towers rise over the walls like imposing sentries. Many people stand idly on street corners, eying you suspiciously and keeping to themselves.
 
 - Some of the PCs are from sharn and lower Tavick's Landing so finding the Cog Carnival is pretty straight-forward. If they want to ask, they can talk to any of the residents to get directions.
 - Roll again on the lower sharn table for colour as they make their way there.
@@ -118,7 +118,7 @@ As the PCs ask questions, pick a good time to interrupt them.
 - She'll still be frazzled by the events, but she'll open up:
   - Razor served with Coal in the Cyran military during the Last War, during which Coal lost her right arm.
   - Razor and Coal had trouble finding work in Sharn, due to the fact that many businesses are reluctant to hire warforged foreigners. The pair became desperate for money.
-  - A month ago, Razor told Coal she had a job working on a long-term secret mission for Alden d'Orien, the scion of a dragonmarked house. Warforged from other parts of the city were also recruited to help in the task. The job required physical labor, so Coal’s injury prevented her from being able to do the job. Razor planned to save money then buy Coal a new arm so she could work with her.
+  - A month ago, Razor told Coal she had a job working on a long-term secret mission for Alden d'Orien, the scion of a dragonmarked house. Warforged from other parts of the city were also recruited to help in the task. The job required physical labor, so Coal's injury prevented her from being able to do the job. Razor planned to save money then buy Coal a new arm so she could work with her.
   - Razor would often come back from work sullen or wounded but never opened up about the job until shortly before she died. Razor confessed that the job was more dangerous than it seemed when she was recruited. Razor was planning to quit before she died.
 
 There are now a few directions the PCs can go:
@@ -150,7 +150,7 @@ There are now a few directions the PCs can go:
 
 > The lift seems to descend forever into the belly of Sharn. Several minutes pass as and the lift rattles and shakes, as if passing into some place it was not meant to go. This rumbling builds to a violent peak then the lift stops, and its doors open.
 >
-> By the lift’s interior light, you can see into a vast, unlit cavern strewn with broken stonework from ancient buildings as far as you can see in every direction. The air is stale, and filled with dust and the scent of decay. These are the ruins of the cities atop which Sharn is built.
+> By the lift's interior light, you can see into a vast, unlit cavern strewn with broken stonework from ancient buildings as far as you can see in every direction. The air is stale, and filled with dust and the scent of decay. These are the ruins of the cities atop which Sharn is built.
 >
 > Ahead of you lies the darkness - there are no lights down here. In the immediate vicinity you can make out the 30ft high ceiling, and the tops of some buildings.
 
@@ -186,21 +186,21 @@ Caden is kept shackled in a small shed in the excavation
   - If either of these methods succeed, Caden tells the characters he was kidnapped by a big, mean lady named Garra and imprisoned here by her goblin friends.
 - Caden's manacles
   - The manacles, originally designed to bind goblins, are sturdy but old.
-  - A character who makes a successful DC 15 Dexterity check with thieves’ tools picks the manacles’ lock, and a character who succeeds on a DC 17 Strength (Athletics) check breaks the manacles loose.
-    - A character who succeeds on a DC 11 Intelligence (Investigation) check finds the manacles’ lock is smeared with oil of taggit.
+  - A character who makes a successful DC 15 Dexterity check with thieves' tools picks the manacles' lock, and a character who succeeds on a DC 17 Strength (Athletics) check breaks the manacles loose.
+    - A character who succeeds on a DC 11 Intelligence (Investigation) check finds the manacles' lock is smeared with oil of taggit.
     - Any character that attempts to pick the lock without gloves is exposed to the poison and must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours.
       - The poisoned creature is unconscious.
       - It wakes up if it takes damage.
 
 ## Mithral Tower
 
-> Mithral Tower is Sharn's most desirable downtown residential district in Upper Central Plateau and is occupied by some of the city’s wealthiest citizens.
+> Mithral Tower is Sharn's most desirable downtown residential district in Upper Central Plateau and is occupied by some of the city's wealthiest citizens.
 >
-> Many of the grand homes in Mithral Tower are true to the district’s name, boasting mithral filigree. The Sharn Watch seems to be everywhere in this neighborhood full of busy scions climbing into skycoaches, hosting opulent parties, and showing off their latest purchases at all hours of the day.
+> Many of the grand homes in Mithral Tower are true to the district's name, boasting mithral filigree. The Sharn Watch seems to be everywhere in this neighborhood full of busy scions climbing into skycoaches, hosting opulent parties, and showing off their latest purchases at all hours of the day.
 >
 > The Clouded Estate has a grand lightning-bolt statue and various weather-shaped topiaries adorning the yard beyond an open, wrought-iron gate. Flanking this gate are two guards in House Lyrandar livery, and clearly very fine (and expensive) armour.
 >
-> The magnificent marble home is clearly owned by one of the city’s wealthiest dragonmarked families. Seated on a patio couch are two figures engaged in quiet conversation: a haggard man in his late thirties and an attentive kalashtar who holds a rose-colored crystal in his hands. Two more guards dressed like the ones at the gates stand nearby.
+> The magnificent marble home is clearly owned by one of the city's wealthiest dragonmarked families. Seated on a patio couch are two figures engaged in quiet conversation: a haggard man in his late thirties and an attentive kalashtar who holds a rose-colored crystal in his hands. Two more guards dressed like the ones at the gates stand nearby.
 
 - The men are [[Alden d'Lyrandar]] and his assistant Vishtai.
   - When Alden notices the characters with Caden, he immediately rushes over.

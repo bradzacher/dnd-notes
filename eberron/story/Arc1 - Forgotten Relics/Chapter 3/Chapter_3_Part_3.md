@@ -17,7 +17,7 @@
 - He has little more to add about the town:
   - As a House Cannith outpost, the village was primarily occupied by immigrant dwarves, House Cannith retainers, and a handful of Cyran laborers.
   - Since the quarry was seen as the property of House Cannith, it was largely left alone during the war.
-  - The Darguuls have laid claim to all territory extending to the Mournland, but they haven’t made any concentrated effort to settle the village.
+  - The Darguuls have laid claim to all territory extending to the Mournland, but they haven't made any concentrated effort to settle the village.
 - The PCs can ask Failin whatever they like, but he doesn't know anything else about Rose Quarry.
 
 ## Ambush in the night
@@ -184,7 +184,7 @@
 - The emerald claw are trying to decipher the map.
   - The dwarf is carting rubble to the entry rooms.
 
-> The large 50-foot-wide chamber has been cleared of most of the rubble and glass you’ve seen throughout the rest of the village.
+> The large 50-foot-wide chamber has been cleared of most of the rubble and glass you've seen throughout the rest of the village.
 > The floor emerges from the shattered glass, formed from red marble and decorated with an embossed design.
 > The large chamber contains a few enormous blocks of rough red stone.
 > This place was probably where the marble was shaped, polished, and prepared for shipping.
