@@ -83,7 +83,7 @@
 
 - If the PCs approach the gate:
 
-> Blinking magical lights created by gnome entertainers guide you through the Aundairian Embassy’s courtyard toward a set of heavy wooden doors.
+> Blinking magical lights created by gnome entertainers guide you through the Aundairian Embassy's courtyard toward a set of heavy wooden doors.
 > Beyond the doors, you hear the sound of music and laughter.
 > Two gnomes in full plate with hooked hammers at their sides stand on either side of the doors.
 > A box full of white paper sits next to their feet.
@@ -172,7 +172,7 @@
 
 - Lucan summons the vampire blade using the glove of storing and lashes out at Meena's guards.
 - On the 3rd round of combat - 3 additional embassy guards enter the fray.
-- There is one
+- There are two guards that have been charmed by Lucan already, who will focus their efforts on defending him.
 - NPC Objectives and Tactics:
   - Lucan
     - Primary: Wants to escape
@@ -187,10 +187,55 @@
     - Primary: Wants to capture Lucan
     - Secondary: Wants to prevent anyone else from getting Lucan
   - Neya
-    - Primary: Does not want to be engaged in combat, and will just watch
-    - Secondary: She will fight to survive, only.
+    - Primary: Survival
+    - Secondary: She will fight to survive, only
+    - Tactics
+      - Does not want to be engaged in combat, and will just watch
   - Edvin Garm
     - Primary: Help Lucan escape
     - Secondary: Steal the blade
   - Guards
     - Tactics: shoot at anyone that's fighting.
+
+## Aftermath
+
+- Neya should survive combat. The PCs can interact with her after the fight for information.
+  - She is untrusting of the PCs, and requires a DC12 Charisma (Persuasion) check to relax her.
+  - Neya has a strong sense of patriotism, and a strong loyalty to her friends.
+  - Things she knows:
+    - On the vampire blade:
+      - The vampire blade is an ancient and powerful artefact
+        > There are few things feared by the vampire lords.
+        > Sunlight, of course. The few beings more powerful than them – dragons, daelkyr, ancient deathless, and the like.
+        > Those things... and the vampire blade.
+        > They don't fear the blade itself, per se, though it is no simple weapon.
+        > Rather they fear what the blade can do to the kingdoms that they have created in the night.
+        >
+        > According to the stories, in the early days (or nights, rather) of Galifar, a powerful vampire lord built a
+        > network of brilliant and ambitious thralls that extended across much of Breland and Cyre.
+        > One of these thralls had been a skilled artificer – some say it was a member of House Cannith who lacked a mark
+        > and had to work doubly hard to keep up because of it.
+        > This artificer was made one of the vampire lord's spawn to better maintain control.
+        > In secret, though, the artificer worked and created a blade capable of cutting through the ties of blood and
+        > power that its master had over it.
+        > Freed from its master, the artificer-vampire came into its own power and caused an uprising among the vampire lord's thralls.
+        >
+        > Rumors say that the blade has been in the possession of Calderus in the depths of Sharn for over a century.
+        > Other rumors say that she spent a decade hunting down the artificer who created it.
+    - On Lucan:
+      - Lucan was a member of the [[King's Dark Lanterns]].
+        - This is how Neya met him and worked with him.
+        - As a spy, Lucan knows too much to be a free man.
+      - Lucan is not a bad man
+        - Neya has known him for many years, but he has never been this base or brutal.
+        - He would never kill a man unless he needed to.
+    - On the night:
+      - Neya served her friendship by providing Lucan with the means for escape.
+      - Neya served her country by tipping off the Aundairian spies.
+      - It was up to the whims of the gods to determine Lucan's fate that night.
+        - If he was captured, then he is to be captured.
+        - If he escaped, then he is to be free.
+      - Neya did not expect Lucan to get enraged such that he would fight and kill anyone.
+    - On next steps:
+      - Neya's contact (Edvin) provided Lucan with travelling papers to get him to Karrnath via airship.
+      - The airship is scheduled to leave in the morning.

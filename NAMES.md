@@ -155,7 +155,6 @@ https://www.fantasynamegenerators.com/dnd-human-names.php
 Nherdun Bushen
 Ruder Bhukhin
 Rorver Boulderspear
-Vui Havenhand
 Har Bavrug
 Onver Daywolf
 Ruth Moltenstream
