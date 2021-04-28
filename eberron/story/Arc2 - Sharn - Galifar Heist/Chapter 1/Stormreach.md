@@ -1,0 +1,3 @@
+# Stormreach
+
+Once a haven for pirates and smugglers, Stormreach has become a thriving port that serves as the passage to the Xen'drik interior. All the dragonmarked houses have outposts in the city, and it is home to refugees, renegades, criminals, and others who have no place on the other continents. The city is ruled by the council of Storm Lords, who hold absolute power. As Stormreach is built on the foundations of an ancient giant city, ruins abound around and below the city. Some fear that if the city continues to expand, the growth will trigger an ancient curse. But for now, Stormreach is a prosperous community and a gateway to adventure.

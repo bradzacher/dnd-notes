@@ -62,7 +62,8 @@
 
 - Answers to some questions:
   - Why Should We Help You?
-    > "For taking on this mission, I will pay you 5,000 gold pieces each—half now, the rest when you return with the items.
+    > "For taking on this mission, I will pay you 3,000 gold pieces each.
+    > Half now, and the rest when you return with the items.
     > The schemas and the creation pattern belong to House Cannith, but more importantly, we must not allow the Order of the Emerald Claw to use the completed pattern.
     > I haven't quite determined what the pattern can be used to create, but the reputed power it possesses cannot be allowed to fall into the grasp of the Emerald Claw.
     > Neither the Five Nations nor the dragonmarked houses will be safe should the order attain a powerful weapon.
@@ -87,3 +88,47 @@
     > I will also make arrangements for your travel."
 
 ## Part 2 - From Here to There
+
+- The PCs can return to Elaydren's house in 2 hours.
+
+> As you approach Lady Elaydren's townhouse you hear a loud banging followed the sound of shattering glass.
+> As you spring around the corner, you hear a portly dwarf launch into a series of dwarfish curses towards a human hanging out of the window.
+> On the ground you see the shattered remnants of a window as a goblin rushes over dragging a large bin and a broom behind them.
+
+- DC 15 Passive Perception will notice that none of the labourers are wearing House Cannith livery.
+  - DC 15 Intelligence (Investigation) or Wisdom (Insight) check will let a PC infer that Elaydren is probably hiding the attack from the House.
+  - If questioned - Elaydren will be a bit defensive, but will quickly concede the point.
+    - She didn't want news of her failure to reach her Baron.
+    - At least, not until she had a chance to set in motion actions to correct it.
+- Elaydren seems relieved to see the party.
+
+> I have secured you passage on a new form of transportation recently developed by House Cannith,
+> It is called an undersea ship, for it travels secretly beneath the waves.
+> Three such vehicles have been constructed.
+> We built them for various intelligence agencies, but only one such group has had the vision to purchase one of the ships now that the Last War has ended.
+> The other two remain in Cannith hands.
+> Take this letter of passage to [[Byam]], in the Grayflood district.
+> He can be found in the vicinity of the Stone Docks.
+> He will make sure you get safely to [[Stormreach]] and back again.
+
+- Let them ask any questions
+
+> The undersea ship will take you to Stormreach, the trading town located on the northern coast of Xen'drik.
+> You might be able to pick up the Emerald Claw task force's trail in or around Stormreach.
+> If that doesn't seem to be working, you should instead head directly for the ruins.
+> Kedran's notes place the ancient site about four hundred miles up the Rachi River.
+> Here is the clue from Kedran's notes to finding the site once you reach that stretch of the river:
+>
+> "At the turn in the Rachi River,
+> where the land rises and the hands of stone reach for the sky,
+> look toward the giant's left hand for guidance to the schema's resting place."
+>
+> A bit vague for me, but it's what we've got to go on.
+
+- Let them ask any questions.
+
+> Before I forget, as promised - here is your advance payment.
+> Collect the four schemas and the creation pattern, return them to me, and an equal amount will be yours on your return.
+> Good luck, and may the fortunes of the Houses and the Nations smile upon you.
+
+- She hands each of the PCs a sack filled with 1,500gp worth of small gems.

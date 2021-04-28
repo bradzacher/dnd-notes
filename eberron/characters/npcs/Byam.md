@@ -1,0 +1,5 @@
+# Byam
+
+Location
+
+- [[Sharn]]

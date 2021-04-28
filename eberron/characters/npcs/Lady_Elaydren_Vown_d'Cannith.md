@@ -13,3 +13,4 @@ Notes
 
 - Knows much about house Cannith's past and present
 - Hired the party to investigate the Forgotten Forge
+- Says she works for [[Jorlanna d'Cannith]]
