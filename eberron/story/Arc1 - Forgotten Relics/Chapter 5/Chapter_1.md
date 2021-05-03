@@ -132,3 +132,105 @@
 > Good luck, and may the fortunes of the Houses and the Nations smile upon you.
 
 - She hands each of the PCs a sack filled with 1,500gp worth of small gems.
+
+### Sea Dart
+
+- Byam can be found easily by asking around for him
+- When found, he is playing a game of dice with some sailors
+  - He'll ask them to wait while he finishes the game and collects his winnings
+- If they show him the letter of passage, he'll lead the way to a warehouse set back in the docks.
+
+> The gnome with the short, dark hair and colorful speech leads you into the warehouse.
+> Inside, hidden from view, a sunken pool contains a strange-looking vessel.
+> It looks superficially like an airship that has fallen into the water, complete with an elemental binding ring.
+> However, the binding ring contains violently spinning water instead of the airy or fiery torus normally seen on airships.
+> The craft's shape seems strangely thin and elongated.
+> Moreover, every compartment is sealed inside the hull.
+> Several gnome crew members are in the process of transferring cargo crates into an open hatchway on top of the craft.
+> "This is the Sea Dart, my friends, and I am its captain, Byam of the ocean depths!"
+
+- Byam doesn't know of the mission - just that the PCs need to get to Xen'drik ASAP.
+- Let them ask whatever questions (whilst the gnomes load up the rest of the cargo)
+
+> The Sea Dart isn't really made for this many people, nor people of your stature, so it'll be a bit cramped.
+> But we'll get you there fast as we can.
+> Lady Elaydren told me you need to get to Stormreach with the utmost haste.
+> Almost all sea captains plot courses around the teeth.
+> The waters are treacherous for normal ships, and there are many dangers hiding in the waters.
+> But I've navigated the waters many times now - so I know of a route that could cut a day and a half off the trip.
+
+### Danger at Sea
+
+- On the second day of the trip, Captain Byam calls the PCs to the observation blister to see an interesting sight:
+
+> Beyond the clear dome of the observation blister, a breathtaking vista reveals itself in startling hues of phosphorescent color.
+> Thousands of glowing fish, some in schools, some alone, flit through the dark water.
+> Great columns of stone, painted in luminescent yellows and greens, punch up from the darkness below and extend toward the surface, slowly narrowing as they reach upward.
+> Some of the columns are only tens of feet across, but those farther away in the hazing distance could be far, far broader, perhaps supporting small islets of rock on the surface.
+> Captain Byam says, "The Teeth, as seen from a different perspective. Beautiful, don't you think?"
+
+- DC 18 Wisdom (Perception) Check to get this text:
+  > An enormous dark shape moves through the water toward you.
+  > It comes closer, and you see a streamlined body with a triangular fin atop its back, a toothy maw set well under its long snout, and a tail shaped like a crescent moon.
+
+> The Sea Dart rocks violently as though something large and powerful has crashed into it.
+> Perhaps maybe the vessel has hit one of the stone columns that rise like rocky trees through the dark water all around you.
+> From somewhere, you hear the sound of dripping water as the gnome crew members begin to curse and shout.
+
+- Have each character make a DC16 Dexterity saving throw.
+  - Anyone that made the above perception check can choose to brace themselves and do a Strength saving throw instead.
+  - Anyone that fails a check take 2d6 bludgeoning damage - successful checks take half damage.
+- Anyone that made the perception check AND are trained in either Nature or Animal Handling can make a check DC14.
+  - On a success they notice the shark is much larger than usual, and appears to be covered in markings.
+  - A high enough roll deduces that this shark has been magebred.
+
+### Rise, Rise
+
+> "Captain!" one gnome crew member calls. "The binding ring has been damaged!"
+> "Blast that overgrown sardine's misshapen fin!" Byam shouts, anger and tension fighting for dominance in his tone.
+> "Get us to the surface before the elemental gets free and we're stuck in these cursed waters! Rise, rise!"
+
+- Byam adjusts the view in the observation blister so that the crew can keep an eye on the shark.
+- It appears to follow the ship a while, before disappearing beyond the range of the lights and into the darkness of the sea.
+
+> Byam turns to you.
+> "Once we reach the surface, the crew and I can examine the damage and make repairs.
+> Shouldn't delay us more than a couple of hours, Wise Aureon willing."
+
+- Let them PCs do whatever.
+
+> It's a tense few minutes as the sound of dripping water slowly grows louder.
+> You can feel the water starting to pool a bit at your feet.
+
+- Let the PCs do whatever.
+
+> You feel the ship lurch as the engines groan a bit.
+> Byam flips the viewport around a few times before you hear him curse in Gnomish.
+> "All right, crew," Byam shouts above the increasingly louder sound of dripping water
+> "we're going to have to take a swim and cut the Sea Dart free."
+> You watch as four of the gnomes shout in agreement and head for the rear of the ship.
+> Byam turns to you he says "Any help you can provide will be much appreciated."
+
+- There are 12 potions of deep sea diving.
+- The airlock can just barely fit two medium creatures, and takes two rounds to cycle.
+- The shark will appear again 2 rounds after a creature exits the airlock.
+- There are 4 places that will need to be cut free.
+  - It takes 2 actions to cut the net.
+- Make all PCs in the water make a Wisdom (Perception) check -- DC18.
+  > At the edge of the light well created by the Sea Dart's external lights you can just barely make out a shape.
+  > Best you can tell - it's a vaguely humanoid shape.
+  > As you notice it - it seems to slink backwards into the darkness beyond your vision.
+- Combat Notes:
+  - Swimming is difficult terrain unless someone has swimming speed
+  - When making a melee weapon attack, a creature that doesn't have a swimming speed has disadvantage on the attack roll unless the weapon is:
+    - a dagger, javelin, shortsword, spear, or trident.
+  - A ranged weapon attack automatically misses a target beyond the weapon's normal range.
+    - Even against a target within normal range, the attack roll has disadvantage unless the weapon is:
+      - a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
+  - Creatures and objects that are fully immersed in water have resistance to fire damage.
+
+### Island Encounter
+
+> The Sea Dart breaks the surface and gently comes to rest beside a more or less flat-topped stone outcropping.
+> Other such outcroppings jut from the water, though most of the nearest ones are jagged or domed.
+> "This is as good a place as any," Byam declares. "Let's disembark and make repairs."
