@@ -1,6 +1,6 @@
-## Part Two - From Here to There
+# Part Two - From Here to There
 
-### The Final Briefing
+## The Final Briefing
 
 - The PCs can return to Elaydren's house in 2 hours.
 
@@ -46,7 +46,7 @@
 
 - She hands each of the PCs a sack filled with 1,500gp worth of small gems.
 
-### Sea Dart
+## Sea Dart
 
 - Byam can be found easily by asking around for him
 - When found, he is playing a game of dice with some sailors
@@ -72,7 +72,7 @@
 > The waters are treacherous for normal ships, and there are many dangers hiding in the waters.
 > But I've navigated the waters many times now - so I know of a route that could cut a day and a half off the trip.
 
-### Danger at Sea
+## Danger at Sea
 
 - On the second day of the trip, Captain Byam calls the PCs to the observation blister to see an interesting sight:
 
@@ -97,7 +97,7 @@
   - On a success they notice the shark is much larger than usual, and appears to be covered in markings.
   - A high enough roll deduces that this shark has been magebred.
 
-### Rise, Rise
+## Rise, Rise
 
 > "Captain!" one gnome crew member calls. "The binding ring has been damaged!"
 > "Blast that overgrown sardine's misshapen fin!" Byam shouts, anger and tension fighting for dominance in his tone.
@@ -142,7 +142,7 @@
       - a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
   - Creatures and objects that are fully immersed in water have resistance to fire damage.
 
-### Island Encounter
+## Island Encounter
 
 > The Sea Dart breaks the surface and gently comes to rest beside a more or less flat-topped stone outcropping.
 > Other such outcroppings jut from the water, though most of the nearest ones are jagged or domed.
@@ -160,7 +160,7 @@
 - Afterwards they will head back on the sea to Stormreach.
 - The remainder of the journey will take 2 days.
 
-### Stormreach
+## Stormreach
 
 > As the Sea Dart breaches the surface near the shore, you take in the sight of the afternoon sun and the sky.
 > As you look to the north, you can see the city in all of its glory.
@@ -194,7 +194,7 @@
 > Over it all you hear the conversation of hundreds of people buying and selling all manner of things.
 > Dancers, jugglers, fire-eaters, puppeteers, and purported sorcerers peddle their talents to anyone with coin and a modicum of patience.
 
-### Seeking The Emerald Claw
+## Seeking The Emerald Claw
 
 - The PCs can attempt to just ask around about the Emerald Claw.
   - If they do, have one PC make a Charisma (Persuasion) check, and the same or another PC make an Intelligence (Investigation) check.
@@ -218,7 +218,7 @@
 - 1d4 hours of asking around near the docks will reveal that soldiers wearing Emerald Claw insignia were spotted outside the Wavecrest Tavern a few days ago.
 - If the combined time the PCs spend exceeds 5 hours, then move on to the "Asking too Many Questions" encounter
 
-#### Muroni
+### Muroni
 
 - Muroni is an elf, and follower of the draconic prophecy.
 - She arrived more than a month ago at the behest of her master.
@@ -238,7 +238,7 @@
   - Afterwards she is to return to Vuulaytherus and report back, so that he may better understand and interpret the Prophecy.
 - Muroni knows absolutely nothing about the Emerald Claw, Garrow, or the Warforged force.
 
-#### Morgrave Expedition
+### Morgrave Expedition
 
 - The expedition from Morgrave University arrived on the Strong Wind a few days ago.
 - Led by Provost Baris Kaven.
@@ -265,7 +265,7 @@
     > The warforged called itself Falchion, and the dwarf introduced himself as Rarwog.
   - Kaven will point the PCs towards Chinxero in case they want to head downstream.
 
-#### House Lyrandar Docking Tower
+### House Lyrandar Docking Tower
 
 - Falconer’s Spire towers over the northern edge of the Marketplace and is clearly visible from almost anywhere in the city.
 - The half-elf tower master, Calynden d'Lyrandar, is a battle-hardened woman with dark red hair.
@@ -274,7 +274,7 @@
     - She'll reveal that Captain Codiane d'Lyrandar took an expedition south about a day ago.
     - The clients consisted of some humans, dwarves and warforged.
 
-#### Blood of Vol Temple
+### Blood of Vol Temple
 
 - The priest, a half-orc named Jheraan, will freely tell the PCs everything he knows.
 
@@ -290,7 +290,7 @@
   - Jheraan is terrified of Surthain, and needs reassurance that he will be safe.
   - DC15 Charisma (Persuasion) check will convince Jheraan to (reluctantly) contact Surthain.
 
-#### House Cannith Enclave
+### House Cannith Enclave
 
 - Grocror d'Cannith at the enclave will receive the PCs and accept their papers.
 - He will take their credit, and give them a document.
@@ -298,7 +298,7 @@
 > Speak with Chinxero - you can find him down at the his riverboat at the docs on the Rachi River.
 > This document charters his services to take you downstream.
 
-### Asking too Many Questions
+## Asking too Many Questions
 
 - Surthain is on the lookout for the PCs.
 
@@ -312,3 +312,23 @@
 - The address leads to a dead-end alley filled with shadows and protected from the sun.
 - Surthain and two zombies will attack the PCs.
 - On Surthain's body is the "Dagger of Betrayal"
+
+## The Riverboat
+
+- Chinxero is easy enough to find. He is near his ship - the Marlow.
+  - He is a grizzled, wiry-looking human with a hint of Orcish blood.
+- He balks when he hears how far up the river they want to go (400 miles).
+  - It's going to take at least 5 days, and be very dangerous
+
+> "Too far," Chinxero says.
+> "Too far and too dangerous.
+> Besides, I have other runs to make, schedules to keep.
+> Find another charter. Leave me be."
+
+- It will take a DC20 Charisma (Persuasion) check to convince him.
+  - Before the roll they can gain +1 to their roll for each 100gp they offer.
+  - Suggesting that this could be beneficial to his business (expanding it south, getting access to new trade goods, etc.) adds +4.
+  - For each point the roll fails, Chinxero will demand 200gp.
+  - Threatening Chinxero with violence or failing a Charisma (Intimidation) or Charisma (Deception) check will give the PCs disadvantage on the Charisma (Persuasion) check.
+- Muroni offers to pay Chinxero to make the journey, up to 400gp - if the characters refuse to pay.
+- Chinxero will be ready to leave in 12 hours.
