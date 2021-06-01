@@ -86,12 +86,12 @@
 
 ### Nighttime Encounters
 
-| d12   | Encounter     |
-| ----- | ------------- |
-| 1-4   | Will-o'-Wisps |
-| 5-6   | Green Hag     |
-| 7-9   | Hliska Swarm  |
-| 11-12 | Hunting Cats  |
+| d12  | Encounter     |
+| ---- | ------------- |
+| 1-4  | Will-o'-Wisps |
+| 5-6  | Green Hag     |
+| 7-10 | Hliska Swarm  |
+| 9-12 | Hunting Cats  |
 
 #### Will-o'-Wisps
 

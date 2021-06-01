@@ -48,7 +48,7 @@
 
 ### Chimera
 
-- A chimera has been attracted to the ruin by the chaos caused by the Emerald Claw’s arrival.
+- A chimera has been attracted to the ruin by the chaos caused by the Emerald Claw's arrival.
 
 ## Gallery Level
 
@@ -100,4 +100,310 @@
   - For each hour a character spends exploring the nests, he or she is exposed to ash rot.
   - Upon exiting the nest, a PC must succeed on a Constitution saving throw of DC 10 + 1 per hour spent. On a failure they contract [[Ash Rot]].
 
-TODO - carrion beetles
+#### Infestation
+
+- Giant Carrion Beetles have made their way into the ruined structures - feasting on the dead Drow.
+  - Each beetle is the size of a rat, and the queen is about the size of a dog.
+- Three swarms of beetles roam the mud tubes, one not too far from the entrance and the other two in a large chamber, feasting on charred remains.
+- Further back in the complex, the female has birthed two swarms of larvae which are voracious and will attack anything that moves.
+
+#### Treasure
+
+- DC15 Intelligence (Investigation) check for each hour spent searching for valuables.
+  - Success means they found 1d4 items of value worth 3d6x10gp each. (eg gems, art, metal or ceramic)
+  - A result of 20 or higher will result in one of the following items:
+  - Once the PCs %nd either three of the four objects above or 1000 gp worth of valuables, they will have found everything possible.
+
+| d4  | Item                                                                                                                                                        |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | a Khyber dragonshard that functions as an elemental gem (earth)                                                                                             |
+| 2   | a 1 foot square metal plate. When cleaned and polished, it acts as a mirror and visibly reflects objects and creatures that are invisible or ethereal.      |
+| 3   | A stone sculpture of a scorpion. When you speak the command word, it will animate once per day for 10 minutes as a tiny animated object under your control. |
+| 4   | _Medallion of Thoughts_ – This silver necklace is set with malachite and a Siberys dragonshard.                                                             |
+
+### (3) Temple Level Stairs
+
+> Slabs of stone form a giant-sized staircase that leads higher into the ruin, but a narrow, humanoid-sized staircase is cut into one side.
+
+- This staircase leads to area 14 on the temple level of the ruin.
+
+### (4) East Gallery
+
+> The open, pillared gallery on the east side of the ruin grants a wonderful view of the nearby jungle's edge, as well as the hint of other cyclopean ruins far off across the jungle landscape.
+
+### (5) Dark Level Stairs
+
+> Slabs of stone form a giant-sized staircase that leads higher into the ruin, but a narrow, humanoid-sized staircase is cut into one side.
+
+- This staircase leads to area 9 on the dark level of the ruin.
+- Emerald Claw Soldiers are at the top of the stairs in Area 9.
+  - They have lit that area by torchlight and a DC 16 Wisdom (Perception) check will allow a PC to notice the flickering of shadows caused by the torchlight above.
+
+### (6) East Antechamber
+
+- The door between Areas 4 and 6 is stuck and cannot be opened with brute strength, though it can be destroyed.
+- The door between Areas 6 and 8 can be opened with a Strength check with disadvantage due to the seal on the door.
+  - DC 20 Strength check.
+
+### (7) West Antechamber
+
+- A Medium creature can squeeze through the opening of the door, with a DC 16 Dexterity (Acrobatics) check.
+  - A creature that fails this check can still squeeze through, but it will take it an extra turn to do so as an action.
+- The drow believe that an envoy of their god lives beyond the door leading to area 8, and they brought daily offerings to it prior to the arrival of the Emerald Claw task force, piling them against and around the door.
+
+> A wide track mars the ancient dust that covers the floor.
+> The stone shows actual ruts, revealing the passage of many human-sized feet over hundreds of years.
+> The track leads straight across the room.
+>
+> The track leads to another great door opposite the first.
+> Sheaves of edible leaves, pottery, wine-filled vessels, and cuts of rotting meat are piled near that door, as if in offering.
+> Several of the vessels are tipped and smashed.
+
+### (8) Savage Deity
+
+> Half a human body lies tangled on the stone floor, empty of blood and horribly mangled.
+> It wears the remnants of an Emerald Claw soldier's uniform.
+
+- The door between Areas 7 and 8 is a tighter squeeze than the one between 2 and 7, requiring a DC 18 Dexterity (Acrobatics) check.
+  - A Medium creature that fails this check can still squeeze through, but it will take it an extra turn to do so as an action.
+- Within the chamber is a monstrous creature.
+  - A Gargantuan monstrous scorpion that the drow placed in the chamber as a hatchling and have raised to the point where it is too large to exit the chamber.
+  - The monster attacks creatures that enter the chamber. If the door is pushed wide, it pursues potential meals into the gallery level and beyond.
+- Treasure:
+  - 120 ancient gold pieces (120gp quick sale or 1200gp to a collector).
+  - An assortment of gems worth 500gp.
+  - **Hungry Greataxe**.
+  - **Ring of Blinking**.
+
+## Dark Level
+
+### (9) Landing
+
+> Flickering torch light dances at the top of the stairs, and the sound of people conversing in Common drifts down from above.
+> Several humanoid figures stand around two massive doors, tending to a mechanism and trying to pry the doors open.
+
+- These doors have AC 19 and 165 hit points.
+  - They have a damage threshold of 15, so they ignore any attack that does less than 15 points of damage.
+  - Forcing these doors open requires a DC30 Strength Check.
+    - The winch can be employed to force the doors with a DC 15 Intelligence (Investigation) check.
+    - The winch reduces the check to a DC15
+- When the doors are opened, all creatures in the area must make a DC12 Strength Saving throw.
+  - On a failure they are thrown down the stairs and take 4d6 bludgeoning damage.
+  - They must then make a DC14 Dexterity saving throw as they are pushed towards the edge of the ruins.
+    - On a failure they fall 50ft to the ground below, taking the normal 5d6 bludgeoning damage.
+
+### (10) Drowned Dark Level
+
+> Water covers the expanse of this vast enclosed level.
+> A continual stream of water pours out the doors and down the stairs behind you, but ahead there is only darkness.
+
+- The water is 2 feet deep.
+- An undead creature that lived in the Age of Giants haunts this dark, water-filled level.
+  - Once an elf slave, the creature died in an accident involving the portals that tap the elemental waters of the plane of Lamannia (see areas 11 and 12).
+  - Now it roams this dark level, drawn to the first living, intelligent creatures to enter the place in thousands of years.
+- When the drowned draws close, read:
+
+> Suddenly the air becomes thick and wet, and it becomes harder and harder to breathe.
+> It feels as though you've been plunged beneath the murky water, even though it barely reaches your knees.
+
+- When the PCs spot the drowned, read:
+
+> A bloated, drenched, slimy corpse of an elf emerges from the dark, glaring at you with malevolent eyes.
+> Around its neck is a golden collar with runes inscribed in it.
+
+- Treasure:
+  - The drowned has a **Favoured Slave Collar**.
+
+### (11) Inflow Portal
+
+> This massive stone support contains a 5-foot-diameter opening in its face, from which spurts a steady stream of water.
+> The water is clear, pure, and cold.
+> The lowest portion of the opening is seven feet above the floor.
+
+- This is a one-way portal leading **from** Lamannia.
+
+### (12) Outflow Portal
+
+> This massive stone support contains a 5-foot-diameter opening in its face, which offers a view of a great watery expanse.
+> The lowest portion of the opening is seven feet above the floor.
+
+- On this plane, the span between the two portals is 260 feet.
+  - Within the elemental waters of Lamannia, however, the distance between the corresponding portals is only 20 feet.
+- If the players step into the portal, they will be attacked by a group of mephits which used to enjoy frolicking and tasting the water as it passed between the planes.
+
+### (13) Dark Ziggurat
+
+> A stone ziggurat set in the floor rises toward the dark ceiling overhead in three steps.
+> The ziggurat has three steps, each rising 10 feet higher than the previous level.
+> Convoluted designs in carved relief cover every foot of the structure, except for the uppermost step.
+> There, the strange designs appear on three on the four sides, each showing a single glyph.
+> The fourth side is completely devoid of all markings.
+
+- The glyphs and runes are impossible to translate.
+  - Area 24 contains an item called the codebreaker, which can be used to decipher the story held on the ziggurat.
+  - The lower glyphs describe a myth of the creation of a place called Xulenzen and a parable of a carver and a creek-lizard, both mostly inscrutable due to cultural differences
+  - The glyphs that decorate three of the four sides of the uppermost step describe three coordinates for the Throne Gate (area 33).
+    - These are three of the six needed to use the Throne Gate to access the resting place of the fourth schema.
+    - The glyphs read as: The Scorpion's Tail, the River's End, and Garyx's Eye.
+      - DC 18 Intelligence (Arcana) check to recognise that these are versions of names of stars in the sky.
+
+## Temple Level
+
+### (14) Gallery level Landing
+
+- Nothing special
+
+### (15) Sanctuary Anteroom
+
+> Massive double doors of stone and rusted iron stand partially open to the north.
+
+- If the PCs made a stealthy approach:
+  > Two uniformed men stand guard to either side. Light spills from the between the open doors.
+- If the PCs didn't make a stealthy approach:
+  > Light spills from the between the open doors.
+
+### (16) Sanctuary
+
+- If no alarm was raised, then players can hear the sound of people working.
+  - Otherwise the room is almost completely quiet.
+
+> The corners of this cyclopean chamber are lost in shadow, but the stone ziggurat set in the center of the 40-foot-tall chamber rises to within 10 feet of that height.
+> A great globe of light, almost like daylight, illuminates the top of the ziggurat.
+> The ziggurat has three steps, each rising 10 feet higher than the previous level.
+> Convoluted designs in carved relief cover every foot of the structure, except for the uppermost step.
+> There, the strange designs appear on three on the four sides, each showing a single glyph.
+> The fourth side is completely devoid of all markings.
+
+- If no alarm was raised, read:
+  > Several human-sized figures move about the ziggurat, their shadows thrown as huge silhouettes across the walls.
+  > Tents, temporary tables, and other camp gear occupy the floor between the base of the ziggurat and the south wall.
+- The glyphs and runes are impossible to translate.
+  - Area 24 contains an item called the codebreaker, which can be used to decipher the story held on the ziggurat.
+  - The lower glyphs describe a myth of the magician-gods of the giants and a parable of the magehand and the giant’s son, both mostly inscrutable due to cultural differences.
+  - The glyphs that decorate three of the four sides of the uppermost step describe three coordinates for the Throne Gate (area 33).
+    - These are three of the six needed to use the Throne Gate to access the resting place of the fourth schema.
+    - The glyphs read as: The Monkey's Paw, the Unicorn's Hoof, and Io's Twinkle.
+      - DC 18 Intelligence (Arcana) check to recognise that these are versions of names of stars in the sky.
+- Situation:
+  - Garrow has placed Arkaban, a mummy sorcerer, in charge of deciphering the glyphs in the chamber.
+    - Arkaban has a potion of invisibility that he will use to attempt to escape.
+  - Gunfarr Lok, a human warrior, and his 4 guards (2 of them are in area 15 unless alarm was raised).
+  - The top step is protected by a permanent glove of invulnerability.
+  - A permanent daylight spell emits light from 5ft above the top step.
+- Knowledge:
+  - The soldiers can be intimidated with a DC20 check.
+    - They were to search this level for the key to deciphering the glyphs.
+      - They have no idea what they are looking for - just that it can be used to read the glyphs.
+  - Gunfarr can be bribed with 250gp, his freedom and a DC15 Charisma (Persuasion) check.
+    - Same as the soldiers.
+- Treasure:
+  - Arkaban has a **Blurred Cloak**.
+  - The others have 15gp between them.
+
+#### No Alarms
+
+- Arkaban works at the very top of the ziggurat, attempting to puzzle out the glyphs.
+- Gunfarr wanders around the base of the ziggurat.
+- Gunfarr's 2 guards wait on the middle step of the ziggurat.
+
+#### Alarms
+
+- Arkaban stands ready to cast from the top of the ziggurat.
+- Gunfarr and his 4 soldiers stand on the middle step of the ziggurat.
+
+### (17) Slave Warrens
+
+> These rooms are far smaller than the other chambers.
+> The entryways between the rooms, too, seem built to accommodate smaller, more human-sized frames.
+> All that remains are drifts of dust.
+
+- If the PCs spend 30 minutes and pass a DC15 Intelligence (Investigation) check, they can find:
+  - A solid mass of silver coins that are all stuck together (30gp quick sale or 150gp to a collector).
+  - A jade statue of a panther (100gp quick sale or 500gp to a collector).
+  - A silver amulet **periapt of health**.
+
+### (18) Empty Rooms
+
+- Nothing of interest
+
+### (19) Overseer's Chamber
+
+> Brownish red stains smear the south wall of this chamber, where a few chains remain in perfect condition, trailing from hooks set high on the wall.
+> Manacles small enough for a human wrist dangle from each end.
+
+- Nothing of interest
+
+### (20) Temple Ledge
+
+> A ledge provides a path around the outside of the ruin at this level.
+> At a height of about 150 feet above the ground, the view is spectacular.
+> A light wind blows, scented with jungle odors.
+> The great concavities carved into the side of the stone all along the ledge act like great ears, bringing faint sounds from the animals far below into sharper focus.
+
+- During the day there is a 3-in-4 chance that a ledge has a pair of cloud apes patrolling the ledge.
+- During the night there is a 1-in-4 chance that a ledge has a ape patrol.
+- The apes consider the ledge part of their territory and will defend it from intruders
+- If the adventurers intrude on the ledge and are noticed by a pair of cloud apes, the cloud apes roar and move in to drive off or kill the invaders.
+  - After a conflict starts, the roars and the sounds of battle attract another pair of cloud apes in 1d4+1 rounds.
+  - After the second pair appears, another arrives in 1d4+1 rounds.
+
+### (21) King of the Apes
+
+> The giant-sized door to this chamber is stuck halfway open.
+> Within, the stench of unwashed animals is overpowering.
+> Piles of furs and wide leaves gathered from the surrounding jungle dot the chamber.
+> Many animals obviously use this place as a den.
+> As you glance around, a nearby shadow moves and a white gorilla with four arms emerges from the darkness with a menacing roar.
+
+- During the day, just the King is present
+  - After a conflict starts, the roars and the sounds of battle attract a pair of cloud apes in 1d4+1 rounds.
+  - After the first pair appears, another arrives in 1d4+1 rounds.
+  - After the second pair appears, another arrives in 1d4+1 rounds.
+- During the night, 4 cloud apes are present.
+  - After a conflict starts, the roars and the sounds of battle attract another pair of cloud apes in 1d4+1 rounds.
+- Treasure:
+  - 160 ancient platinum pieces (160pp quick sale or 1600pp to a collector).
+  - 6 emerald gems (100gp each).
+  - A dusty rose gemstone shaped like a prism (**Ioun stone**).
+
+### (22) Lingering Death
+
+> A semicircle spray of bodies, body parts, and bits of Emerald Claw tabards surrounds a closed iron door in the southeast corner of this large and otherwise empty chamber.
+> A gangrenous radiance illuminates the bodies, rising like dissipating mist from the mutilated forms.
+
+- 5 emerald claw soldiers attempted to open the door, but they triggered the deadly trap that protects the door.
+  - A DC 12 Intelligence (Investigation) check will reveal that the dead bodies are all perfectly equidistant from the door.
+- **Death Ray Trap.**
+  - This magical trap is set off if a creature with an Intelligence score or 5 or more comes within 20 feet of the door, targeting that creature.
+  - The target must succeed on a DC 21 Constitution save, or be reduced to 0 hit points.
+  - A creature reduced to 0 hit points in this way has disadvantage on death saving throws as the lingering radiation sucks away their life force.
+- Barring antimagic or using the trap’s single remaining charge, there is no way to disarm this trap.
+- The trap, after thousands of years, has come to the end of its ability to recharge, though it can affect one additional creature before its necromantic power completely fades.
+- The door is locked, and its mechanism has not aged well - making it difficult to open.
+  - It requires a DC15 Lockpicking check made with disadvantage.
+
+> Inside the chamber is clean and free of dust or any signs of aging.
+> In the center of the room is a pedestal, and atop it is an ornate container.
+
+- Treasure:
+  - The container is an unlocked reliquary containing the **Tooth of At-Ta-Ir**.
+
+### (23) Sudden Exit
+
+TODO
+
+### (24) The Codebreaker
+
+TODO
+
+### (25) Unquiet Husk
+
+TODO
+
+### (26) Observatory Level Stairs
+
+TODO
+
+## Observatory Level
+
+TODO
