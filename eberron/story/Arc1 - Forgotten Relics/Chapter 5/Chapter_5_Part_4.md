@@ -112,7 +112,7 @@
 - DC15 Intelligence (Investigation) check for each hour spent searching for valuables.
   - Success means they found 1d4 items of value worth 3d6x10gp each. (eg gems, art, metal or ceramic)
   - A result of 20 or higher will result in one of the following items:
-  - Once the PCs %nd either three of the four objects above or 1000 gp worth of valuables, they will have found everything possible.
+  - Once the PCs find either three of the four objects above or 1000 gp worth of valuables, they will have found everything possible.
 
 | d4  | Item                                                                                                                                                        |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -279,7 +279,7 @@
   > Tents, temporary tables, and other camp gear occupy the floor between the base of the ziggurat and the south wall.
 - The glyphs and runes are impossible to translate.
   - Area 24 contains an item called the codebreaker, which can be used to decipher the story held on the ziggurat.
-  - The lower glyphs describe a myth of the magician-gods of the giants and a parable of the magehand and the giant’s son, both mostly inscrutable due to cultural differences.
+  - The lower glyphs describe a myth of the magician-gods of the giants and a parable of the magehand and the giant's son, both mostly inscrutable due to cultural differences.
   - The glyphs that decorate three of the four sides of the uppermost step describe three coordinates for the Throne Gate (area 33).
     - These are three of the six needed to use the Throne Gate to access the resting place of the fourth schema.
     - The glyphs read as: The Monkey's Paw, the Unicorn's Hoof, and Io's Twinkle.
@@ -364,7 +364,7 @@
 - Treasure:
   - 160 ancient platinum pieces (160pp quick sale or 1600pp to a collector).
   - 6 emerald gems (100gp each).
-  - A dusty rose gemstone shaped like a prism (**Ioun stone**).
+  - A dusty rose gemstone shaped like a prism (**Ioun stone of Protection**).
 
 ### (22) Lingering Death
 
@@ -377,7 +377,7 @@
   - This magical trap is set off if a creature with an Intelligence score or 5 or more comes within 20 feet of the door, targeting that creature.
   - The target must succeed on a DC 21 Constitution save, or be reduced to 0 hit points.
   - A creature reduced to 0 hit points in this way has disadvantage on death saving throws as the lingering radiation sucks away their life force.
-- Barring antimagic or using the trap’s single remaining charge, there is no way to disarm this trap.
+- Barring antimagic or using the trap's single remaining charge, there is no way to disarm this trap.
 - The trap, after thousands of years, has come to the end of its ability to recharge, though it can affect one additional creature before its necromantic power completely fades.
 - The door is locked, and its mechanism has not aged well - making it difficult to open.
   - It requires a DC15 Lockpicking check made with disadvantage.
@@ -390,20 +390,125 @@
 
 ### (23) Sudden Exit
 
-TODO
+- This room _looks_ empty, but a DC18 Intelligence (Investigation) or Wisdom (Perception) check (or passive, if moving slowly) can see that it's not.
+- The 10-foot diameter area of floor directly in front of the door to area 23 is a trap.
+- **Chute Trap.**
+  - This mechanical trap is set off if a creature steps on a trigger located 5 feet in front of the door.
+  - All creatures within 5 feet of the trigger must succeed on a DC 16 Dexterity saving throw or be dropped through a razor-lined chute.
+  - Those dropped into the chute must make a DC 16 Constitution saving throw, taking 20 (5d6) slashing damage on a failed save or half damage on a successful one.
+  - A creature can voluntarily fail this saving throw in order to attempt to stop their descent with a DC 20 Strength (Athletics) check.
+  - Those who continue to fall are launched off the side of the ruin at a height of 100 ft and fall to the ground.
+  - An Intelligence (Investigation) check of 18 or higher reveals the trigger on the floor in front of the door.
+  - Once found, it can be disarmed with a DC 15 Dexterity check using thieves tools, but a failure on this check will trigger the trap.
 
 ### (24) The Codebreaker
 
-TODO
+> A stone pedestal stands in the center of this dust-free chamber.
+
+- The pedestal is trapped.
+- **Fire Trap.**
+  - This magical trap triggers whenever a creature enters the area defined by a 10 foot radius around the pedestal.
+  - Each target must make a DC 17 Dexterity saving throw, taking 35 (10d6) fire damage on a failed save or half as much on a successful one.
+  - The fire will not harm the codebreaker.
+  - A Wisdom (Perception) check of 20 or higher will enable a PC to notice the faint glow on the runes around the base of the pedestal brightening slightly when creatures approach.
+  - A successful dispel magic (DC 17) cast on the pedestal will disable the trap for 1 minute.
+- Treasure:
+  - The Codebreaker
 
 ### (25) Unquiet Husk
 
-TODO
+> This chamber looks empty like so many others on this level, except for layers of debris and great drifts of dust that cover the floor.
+> Cracks in the wall allow narrow beams of outside light into the chamber, as well as wind, rain, leaves, and other jungle debris.
+> In the back corner of the room lies the dessicated corpse of a large ape.
+
+- DC15 Wisdom (Perception) check (or passive, if moving slowly) will notice the moving dust pile.
+  - Those that are inspecting the ape corpse will have disadvantage on the check
+- Treasure:
+  - A mass of corroded silver that appears to once have been part of an ancient device (45gp).
 
 ### (26) Observatory Level Stairs
 
-TODO
+> Slabs of stone form a giant-sized circular staircase, but a narrow, human-sized staircase is cut like a ribbon into the stair's exterior.
+
+- These lead up to the observatory level...!
 
 ## Observatory Level
 
-TODO
+### (27) Temple Level Stairs
+
+- If the PCs didn't come via area 26.
+  > There is a set o circular stairs lead to a large chamber.
+
+> Crates, barrels, and packages on sledge-like pallets are piled in all four corners and along the walls.
+> Everything looks new and recently packed, and no sign of dust can be found on any of these items.
+
+- The storage contains dried meats, relatively clean water, dried fruit, flour, grains, linens, and other supplies required by a large force on a long expedition.
+
+### (28) Hall Guard
+
+- Beyond the entry hall to this level of the ruin, four Emerald Claw soldiers stand guard.
+  - The soldiers stand in torchlight, alert and on guard for drow warriors, wandering monsters, or the PCs — about whom Garrow has warned all his troops.
+
+### (29) Temporary Storeroom
+
+- The door is closed and trapped.
+- **Glyph of Warding.**
+  - The glyph is inscribed on the door, and it is triggered if the door is opened by someone who is not visibly wearing the symbol of the Order of the Emerald Claw.
+  - If the glyph is triggered, each creature within a 20 foot radius of the door must make a DC 15 Dexterity saving throw.
+  - The creature takes 21 (5d8) thunder damage on a failed save or half as much on a successful one.
+  - In order to find the glyph on the door, a character must make a DC 15 Intelligence (Investigation) check.
+
+### (30) Empty Room
+
+> The chamber is empty, though there are some marks and footprints in the dust.
+
+### (31) Guardian Bones
+
+> The dust in this chamber is less prominent than in other portions of the temple.
+> Vivid mosaic tiles cover the floor.
+> Two doors hang partially closed along the east wall.
+
+- The southeast door on the far wall holds the remnants of a long dead giant.
+  > Inside this chamber you see a giant-sized skeleton sitting on the floor.
+  > Beside it lies an equally large, rusted greatsword.
+- The picture in the mosaic can be deciphered with a DC 15 Intelligence (Investigation) or DC 18 Wisdom (Perception) check.
+  > As best as you can tell, the mosaic appears to show a stylised picture of some form of a humanoid figure.
+  > As you inspect the art some more, its body appears to be weirdly proportioned, and carries strange markings on its skin.
+
+### (32) Observatory Ledge
+
+- Just like area 20, except there won't be any reinforcements to these fights, and the apes won't pursue PCs into the observatory.
+
+### (33) Throne Gate
+
+> The constructed fissure in the cyclopean ruin throws the area into shadow, despite being open to the elements on two sides.
+> The walls rise up well over one hundred feet on the east and west, and the cliff-like faces are pocked with cavities and balconies opening on darkness.
+> Great gauzy webs hang above at a height of sixty or so feet, crossing and recrossing the wide gap, which keeps the cleft in shadow even when the sun is high above.
+> At the center of the cleft sits a throne fit for a titan: a mammoth chair of stone and metal sitting on an inscribed disk of unblemished iron.
+> Around the periphery of the iron disk are wooden crates, a few barrels, and a wooden table strewn with a clutter of papers, pens, measuring devices, and other items.
+> A single figure works around the inscribed disk, a rotund female in simple work clothes.
+
+- Garrow is disguised as Matild Lornan - a rotund, fair-haired female provost from Morgrave University.
+  - Garrow claims to be a prisoner of the emerald claw and being forced to work for them as they explore the ruins.
+    - He describes how he was forced to help the Emerald Claw:
+      - The emerald claw came seeking guidance and help from the university expedition based in Stormreach.
+      - Kaven, the leader, had been friendly and given them much information.
+      - In the night they kidnapped her from the quarters, and held her captive aboard an airship.
+      - They've forced me to help them discover the meaning of things as they've explored the ruins over the last few days.
+    - What they've thus far discovered about the ruin:
+      - Was previously inhabited by a tribe of Drow that lived in beautiful nests on the gallery level.
+      - The giants used to keep elves as slaves, so the place was made for creatures of both sizes.
+      - This place is pretty deadly - a number of traps have thankfully killed emerald claw soldiers.
+      - Every stone is enchanted with a form of abjuration magic to protect it from the elements - probably how it has stood for so long.
+    - How he thinks the Throne Gate operates:
+      - Think that the ziggurats must have something to do with it, but unable to decipher the writings.
+      - The throne appears to be enchanted, that much is evident from the auras and the fact it's so well preserved.
+      - The throne must have something to do with the puzzle, or else why would it be placed here, in the middle of a hallway?
+    - Anything to keep the PCs interested and off their guard!
+  - Garrow has little direct knowledge of Morgrave university.
+    - As such, a PC with significant knowledge of Morgrave University can easily determine that Provost Lornan is an imposter (if the PC tries to question her)
+    - Though Garrow will try to deflect questions.
+- Ideally, Garrow will not need to call for help.
+  - Instead, he'll loudly shout things like "That warforged! Scimitar! She tied me up! And I think there was a vampire with them!"
+    - Once he begins ranting like this, it will take Scimitar and the remaining guards 2 rounds to reach Area 33.
+- If the PCs have not figured out the Provost Lornan is an imposter, Garrow will wait for the reinforcements to appear before casting sanctuary on himself as a bonus action and drinking a potion of invisibility.
