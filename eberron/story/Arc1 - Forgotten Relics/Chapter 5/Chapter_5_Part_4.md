@@ -512,3 +512,141 @@
   - Instead, he'll loudly shout things like "That warforged! Scimitar! She tied me up! And I think there was a vampire with them!"
     - Once he begins ranting like this, it will take Scimitar and the remaining guards 2 rounds to reach Area 33.
 - If the PCs have not figured out the Provost Lornan is an imposter, Garrow will wait for the reinforcements to appear before casting sanctuary on himself as a bonus action and drinking a potion of invisibility.
+
+### (34) Arkaban's Chambers
+
+- This is Arkaban's chamber.
+- Inside it's reasonably opulent - there are crystal goblets, silver utensils, and other expensive luxuries.
+  - Worth a total of 300gp
+- There is a chest, locked with a DC15 lock.
+  - Inside is Arkaban's spellbook and 4 bottles of a crimson liqueur, flavoured with human blood.
+- Arkaban's spellbook:
+  - 1st level: cause fear, comprehend languages, detect magic, disguise self, identify, magic missile, shield, silent image, unseen servant
+  - 2nd level: alter self, locate object, ray of enfeeblement, shatter, spider climb, suggestion
+
+### (35) Secret Chamber
+
+- Stuff this room
+
+### (36) Barren Cells
+
+- Empty aside from an ancient layer of dust
+
+### (37) Dead Book Room
+
+- The door to this room is trapped
+  - **Lightning Trap.**
+    - This magical trap triggers whenever a creature opens the door to room 37.
+    - It releases a 5 foot wide, 60 foot long bolt of lightning to the east.
+    - Each target in that area must make a DC 17 Dexterity saving throw, taking 35 (10d6) lightning damage on a failed save or half as much on a successful one.
+    - An Intelligence (Investigation) check of 20 or higher allows a PC to find evidence of the trap in the metal inlays that surround the doorway.
+    - A successful dispel magic (DC 17) cast on the door will disable the trap for 1 minute.
+
+> The remaining structure of this chamber reveals that this was once a great library.
+> However, time has rendered most of the lore into piles of dust.
+
+- A single magical tome of giant size remains, buried in the dust.
+  - DC15 Intelligence (Investigation) check to find it.
+  - It is a manual of bodily health
+    - A creature must be able to read the giant language in order to use this book.
+    - The book is also sized for giants and weighs over 40 lbs., which might make it difficult to transport.
+
+### (38) Reinforcements
+
+- This space serves as camp for the Emerald Claw soldiers.
+
+### (39) The Slave Attics
+
+- The two areas keyed to this entry represent the staircases that ascend up into the twin "slave attics" that occupy the very top of the ruin.
+- A warren of elf-sized rooms and passages extend upward on either side of area 33.
+- Webs fill these areas, and monstrous spiders use the place as a lair.
+- If the adventurers approach the stairs, read:
+
+> Slabs of stone form a narrow staircase leading upward.
+> The stairs are not nearly large enough for giant feet.
+> At the top of the stairs is darkness.
+
+- Characters who push their way past the webs find empty rooms, but many spiders.
+- Every 10 minutes the PCs explore the web-filled warren, roll a d20.
+  - On a result of 1 to 7, the PCs encounter that many shadow spiders.
+  - On a result of 8 or more, there is no encounter.
+
+## The Vault Level
+
+### (40) Vault Dais Entry
+
+> Five massive stone steps, each 10 feet high, descend 50 feet into a great vault filled with hulking, dimly glowing pillars of stone.
+> Building-like in size, the strange stone shapes rise from the floor, protrude through the walls, and burrow into the ceiling.
+> Cords extend from each pillar, which in their multitude create great draperies, all of which lead toward something hidden on the far side of the chamber.
+> Some of the cords appear metallic, but many consist of a more organic material.
+> At the bottom of the steps, a human-sized figure stares into the larger chamber beyond.
+
+- Light: Dim light suffuses most of the room, emanating from myriad sources.
+- Sound: Murmuring, humming, whirring (from the stone pillars spread across the chamber) (automatic).
+- Situation:
+  - Garrow got as far as the bottom step when Xulo's mental commands became too much for him to withstand.
+  - As the PCs get closer, they see that Garrow is spasmodically shifting through forms they may recognize from previous adventures.
+
+> The figure of the rotund provost twists and bends as if in pain, then the features flow like water and you see a thin, disheveled half-elf.
+> He holds the creation pattern in both hands and seems to be conversing with it between spasms.
+> Another spasm overtakes him, and his features reset themselves.
+> Now he appears as a tall, emaciated man with dead-white skin and a thick scar between his eye and ear.
+> "Fine!" the figure screams, "Take it and be gone from my mind!"
+> With that, he flings the creation pattern away from him, into the larger chamber beyond.
+> You lose sight of it as it slides in amongst the chords that snake across the floor.
+
+- The sentient creation pattern Xulo gets stronger the closer it gets to the fourth schema.
+  - Garrow has been struggling to retain control of his own mind.
+  - To that end, he finally hurls the creation pattern away, toward where Xulo was forcing him to take it.
+- If the adventurers attack, Garrow is surprised by their arrival.
+- If they wait until Garrow notices them, the priest shrieks his anger and frustration at them, curses House Cannith and its pathetic minions, and attacks.
+- Combat:
+  - Garrow will have already used death ward on himself upon waking.
+  - This is where Garrow, if he still lives, plans to meet his end or destroy the adventurers.
+  - He uses everything in his arsenal to accomplish this, calling on "Beloved, brutal Vol" often during the final exchange.
+  - Garrow will start by casting spiritual weapon.
+
+### (41) Creation Forge
+
+> Past the strange stone pillars that hum with arcane energy, the draperies of cord snake toward their nexus:
+> A giant humanoid shape standing in darkness.
+> The cords - numbering in the hundreds - connect to the shape on every side, as if catching the great figure in a massive web.
+> Standing nearly 30 feet tall, the shape is imposing, appearing to be made of stone and metal and other, unidentifiable components.
+> One pillar in the southeast portion of the chamber has a slightly different appearance from the others in the room.
+> An assortment of oddly shaped items covers one face of the pillar — items that look like the schemas.
+
+- Xulo wants more than anything to be whole again.
+  - Finding the creation pattern where Garrow has tossed it requires a DC 14 Wisdom (Perception) check.
+  - Finding the proper schema on the pillar is a DC 15 Intelligence (Investigation) check.
+  - Xulo is more than happy to provide telepathic encouragement on both of these checks.
+    - Only do this if it looks like the PCs aren't going to do it.
+    - DC17 Wisdom Saving throw to compel a PC to find the disc and complete the item.
+  - If the PCs are struggling or choose not to put the pieces together.
+    - The pattern and final schema will fling together magically and reform.
+
+> The creation pattern begins to hum with power and glow with a ghostly arcane radiance.
+> A terrible voice fills your mind, speaking in no language and every language.
+> You can easily understand the words.
+> "I ... am ... complete!" the voice shouts.
+> "Xulo is . . . whole!"
+> Then, the voice leaves your thoughts and emerges from the great figure in the center of the chamber as the creation pattern adheres itself to the figure's chest.
+> "And now, Xulo has a body!"
+> With that, the giant construct that looks like some ancient version of a warforged begins to move.
+
+- The malevolent sentience contained within the Xulo pattern wants to be free.
+  - A new world exists wherein it can plan, plot, and work its terrible will.
+  - It takes control of the primitive warforged, using it to deal with any lingering threats and to provide it with a method of locomotion.
+  - The warforged, however, was never completed.
+    - Many of its weapons and special qualities still need to be added.
+    - Xulo plans to get the creation forge running at full power to finish the job.
+- Muroni proclaims that a great and terrible event has occurred.
+  > "The pattern of the Prophecy forever unfolds in profound ways," Muroni says.
+  > "This day, we have witnessed the culmination of one verse of the Prophecy, and the beginning of another."
+- The warforged can’t leave the chamber and is vulnerable to attacks on the cords connecting it to the forge.
+  - There are two types of cords connecting the pillars to the warforged: 50 metallic cords and 50 strange organic cords.
+    - Each metallic cord has AC 17, 27 hit points, and a damage threshold of 10.
+    - Each organic cord has AC 14, 22 hit points, and regenerates 5 hit points at the start of each of its turns if it has at least 1 hit point.
+  - Whenever five cords are destroyed, the warforged must succeed on a DC 13 Charisma saving throw or be restrained until the end of its next turn.
+    - If the warforged fails this save by 5 or more, it is stunned instead of restrained.
+    - Xulo can still cast spells while the warforged is restrained or stunned.
+  - If all the cords are destroyed, the warforged dies.
