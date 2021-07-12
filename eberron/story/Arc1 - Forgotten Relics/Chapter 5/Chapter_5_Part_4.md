@@ -513,6 +513,27 @@
     - Once he begins ranting like this, it will take Scimitar and the remaining guards 2 rounds to reach Area 33.
 - If the PCs have not figured out the Provost Lornan is an imposter, Garrow will wait for the reinforcements to appear before casting sanctuary on himself as a bonus action and drinking a potion of invisibility.
 
+#### The Throne Gate
+
+- This in-place dungeon device contains a potent magical charge.
+- Anyone seated upon the giant-sized throne gains an unhindered view of the heavens, despite cloud cover, lighting conditions, or obscuring webs.
+  - Indeed, it appears as if the night sky has descended to surround the Throne Gate—or the Throne Gate has ascended into the sky.
+  - Concentrating makes a star come into focus and seem to move closer.
+- The throne, obviously, is an incredible boon to mages interested in the stars, though it can't be removed.
+- The iron disk upon which the throne sits is inscribed with over one thousand names, written in the language of the ancient giants
+  - They are not encrypted - these runes can be translated with a simple comprehend languages or similar contrivance.
+  - These are the names of stars (at least, the names the giants gave to them).
+- Anyone sitting upon the throne can utters the name of any of the inscribed stars.
+  - Upon doing so a point in space above the disk begins to glow a twinkling white.
+  - Up to six stars light up at any one time, with the stars going dark as a queue.
+  - The lights dim after 10 minutes, but naming them again reignites the glow.
+- The only combination still working uses the names of the stars from areas (13) and (16).
+  - When the names are spoken aloud (the order doesn't matter), a portal to the vault level (area (40)) opens.
+  - The names are: Scorpion's Tail, River's End, Garyx's Eye, Monkey's Paw, Unicorn's Hoof, and Io's Twinkle.
+  - Anyone on the wide throne is instantly teleported to area 40.
+  - While the stars stay bright for 10 minutes, any creature climbing onto the throne is teleported to area 40.
+  - If the portal lapses, it can be opened again by speaking the proper combination of star names.
+
 ### (34) Arkaban's Chambers
 
 - This is Arkaban's chamber.
@@ -642,7 +663,7 @@
 - Muroni proclaims that a great and terrible event has occurred.
   > "The pattern of the Prophecy forever unfolds in profound ways," Muroni says.
   > "This day, we have witnessed the culmination of one verse of the Prophecy, and the beginning of another."
-- The warforged can’t leave the chamber and is vulnerable to attacks on the cords connecting it to the forge.
+- The warforged can't leave the chamber and is vulnerable to attacks on the cords connecting it to the forge.
   - There are two types of cords connecting the pillars to the warforged: 50 metallic cords and 50 strange organic cords.
     - Each metallic cord has AC 17, 27 hit points, and a damage threshold of 10.
     - Each organic cord has AC 14, 22 hit points, and regenerates 5 hit points at the start of each of its turns if it has at least 1 hit point.
@@ -650,3 +671,46 @@
     - If the warforged fails this save by 5 or more, it is stunned instead of restrained.
     - Xulo can still cast spells while the warforged is restrained or stunned.
   - If all the cords are destroyed, the warforged dies.
+- Anyone who climbs back to the top step of the dias will be teleported back to the throne (33).
+
+## Ending the Chapter
+
+### Muroni
+
+- Muroni will part with the PCs in Stormreach
+
+> "I serve the dragon Vuulaytherus, I study the Prophecy.
+> You have allowed me to watch a particularly important verse unfold.
+> I thank you, and Vuulaytherus thanks you.
+> The dragons have marked you, so perhaps we shall meet again when the next verse reveals itself.
+> Fare you well, my friends."
+
+### Xulo
+
+- If the PCs keep Xulo whole, it will make liberal use of _detect thoughts_ to learn what it can from the PC's minds.
+  - It wants to learn about the world, so it can understand how it might control it.
+  - It will occasionally use its telepathy to attempt to communicate and probe the PCs.
+- If the PCs dismantle Xulo:
+  - If they don't separate its pieces:
+    - It will continually, telepathically urge the PCs to put it back together.
+    - Once per day, DC17 Wisdom Save for one PC.
+  - If they separate its pieces:
+    - Nothing eventful happens.
+
+### Elaydren
+
+- Elaydren will ask for the pattern and schemas from the characters.
+  > "I will personally ensure this is given to my master.
+  > She will ensure that it properly protected from the emerald claw, lord of blades or whomever else may want to steal it."
+- If the PCs refuse, she will be unhappy, and will warn that her master will be displeased.
+  - She will address each of the PCs by name:
+    - Vladimir d'Orien,
+    - Fabim Mohla, son of Solomon,
+    - Karl, refugee of Cyre,
+    - Larloch, former agent of Cannith, and
+    - Esmeralda d'Ghallanda.
+  - Elaydren will give them 500gp each, and will be terse with them.
+  - Mechanically - this will cause House Cannith to become a hostile faction.
+    - Cannith will seek revenge at some point.
+- If the PCs give her the pieces, she will pay them 1,500gp each, and be friendly.
+  - Merrix will reassemble Xulo and study it -- to be continued...
