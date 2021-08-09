@@ -1,6 +1,6 @@
 # Part 1 - Meeting Morkas
 
-- Nyx will send the party to meet her contact, [[Morkas Flondriis]] - a Firbolg Wizard at The Spooky Kitten tavern.
+- Nyx will send the party to meet her contact, [[Morkas Flondriis]] - a Human Wizard at The Spooky Kitten tavern.
   - The Spooky Kitten is in lower dura.
   - She's been told by her contacts that Morkas has some information about what everything is looking for.
 
@@ -35,7 +35,7 @@
 > The goblins gather up their friend and rush out of the tavern without protest.
 > The halfling is left lying on the ground, unconscious and beaten, but alive.
 >
-> You see a Firbolg duck through the doorway, the brim of his hat flopping as he straightens himself.
+> You see a portly man wander through the doorway, his hat flopping about as he straightens himself.
 > He glances around the room and a warm smile stretches across his face as he notices you.
 >
 > He strokes his bristling moustache, tightens his scarf, and then removes his hat as he sits down at your table.

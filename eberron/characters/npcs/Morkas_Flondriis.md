@@ -2,7 +2,7 @@
 
 Race
 
-- Firbolg
+- Human
 
 Location
 
