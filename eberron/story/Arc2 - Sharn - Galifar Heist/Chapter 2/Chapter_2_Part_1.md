@@ -174,12 +174,12 @@
 ### Speak With Dead Clues
 
 - If the PCs ask Dalakhar questions:
-  - Dalakhar stole an artifact called the Stone of Golorr from the lair of a beholder known as [[Xaejil]], in a dungeon deep below the city.
+  - Dalakhar stole an artifact called the Stone of Cazoch from the lair of a beholder known as [[Xaejil]], in a dungeon deep below the city.
   - Dalakhar worked for the Open Lord of Sharn.
     - (Here he refers to Lord [[Cathan ir'Demell]], whom he believes is the rightful Open Lord, not [[Sava Kharisa]].)
-  - The Stone of Golorr is the key to finding a hoard of galifars hidden in the city.
+  - The Stone of Cazoch is the key to finding a hoard of galifars hidden in the city.
   - Dalakhar heard about a group of adventurers who rescued Lord ir'Demell's son from the Boromar.
-    - He thought the Stone of Golorr would be safe in their hands for the time being.
+    - He thought the Stone of Cazoch would be safe in their hands for the time being.
     - He was on his way to deliver it to them, planning to come back and reclaim it after he had eluded his pursuers.
     - Then the fireball went off.
 - If the PCs ask the dead Boromars questions:

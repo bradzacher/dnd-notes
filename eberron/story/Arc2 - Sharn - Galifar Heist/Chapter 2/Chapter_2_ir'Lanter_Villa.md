@@ -276,8 +276,8 @@
   - Forcing the door open requires a successful DC 18 Strength (Athletics) check.
   - Although he's armed with a rapier, Helais throws himself at the mercy of the first person to bust through his barricade.
   - DC 10 Charisma (Intimidation) check (disadvantage if Lord ir'Lanter has reason to believe his wife can see or overhear the conversation):
-    - Stone of Golorr:
-      > The Stone of Golorr is some kind of ancient creature transformed into an artifact.
+    - Stone of Cazoch:
+      > The Stone of Cazoch is some kind of ancient creature transformed into an artifact.
       > It knows the location of a hidden vault in Sharn containing half a million Galifars.
     - Nimblewright:
       > My wife learned that Dalakhar might have a piece of the artefact and that the Boromars were out for him.
@@ -306,7 +306,7 @@
 #### Nighttime
 
 - Alais is armed and armoured with Hrabbaz and the nimblewright.
-- Alias has the **Stone of Golorr**.
+- Alias has the **Stone of Cazoch**.
 - Alias carries a ring of keys that open all locked doors in the mansion, as well as the locked wooden trunk at the foot of the bed.
 - If her situation turns dire and Hrabbaz is unable to protect her:
   - Alias unlocks the door to area G18, rushes inside, and locks the door behind her with her next action.
