@@ -27,11 +27,11 @@
 
 ## Lore
 
-- Kolat Towers once belonged to two eccentric brothers, Duhlark and `Alcedor` Kolat. Both were wizards.
+- Kolat Towers once belonged to two eccentric brothers, Duhlark and Alcedor Kolat. Both were wizards.
 - Over time, the brothers discovered new ways to harness magic, but Duhlark became paranoid that others might steal their secrets.
   - He encased Kolat Towers in a magical force field.
-- Duhlark's paranoia continued to grow, until he suspected `Alcedor` of selling their secrets
-  - `Alcedor` left the towers, never to be heard from again, and Duhlark became a recluse who died in his own fortress.
+- Duhlark's paranoia continued to grow, until he suspected Alcedor of selling their secrets
+  - Alcedor left the towers, never to be heard from again, and Duhlark became a recluse who died in his own fortress.
 
 ## Questioning the Thugs
 
@@ -285,14 +285,73 @@
 
 - This unlit hall is choked with dust and cobwebs.
 - An elaborate rune is inscribed on the back wall at the southernmost end of the hall.
-  - The rune isn’t visible from the doorway to area (K17).
+  - The rune isn't visible from the doorway to area (K17).
 - A secret door is set into the innermost wall.
 - Arcane Rune.
   - A detect magic spell or similar magic reveals a powerful aura of conjuration magic around the rune.
   - A successful DC 15 Intelligence (Arcana) check confirms that this rune sustains the force field around Kolat Towers, and that the rune can be destroyed.
   - It has AC 10, 22 hit points, and immunity to poison and psychic damage.
-  - The rune can’t be dispelled normally, but each successful dispel magic cast on it (DC 19) deals 16 (3d10) force damage to it.
+  - The rune can't be dispelled normally, but each successful dispel magic cast on it (DC 19) deals 16 (3d10) force damage to it.
 - The first time damage is dealt to the rune, a red slaad magically springs forth from it and attacks all creatures in the hallway.
 - When the rune is destroyed, the force field around Kolat Towers disappears.
 - Secret Door.
   - A character who makes a successful DC 15 Wisdom (Perception) check notices the secret door that leads to area (K19).
+
+### (K19) Duhlark's Bedroom
+
+- This room is accessible through either of the secret doors that lead to areas (K17) and (K18).
+- A flameskull bobs in the middle of the room, which is choked with dust and cobwebs.
+  - Manshoon found Duhlark Kolat's skeletal remains in the bed and transformed his skull into a flameskull.
+  - He left the rest of the bones alone, hidden behind cobwebs.
+  - The flameskull attacks anyone other than Manshoon who confronts it, shouting, "Get out of my house!" between casting spells and throwing off fire rays.
+- An oval canopy bed veiled in cobwebs sits across from two narrow bookshelves.
+- The room smells like a tomb.
+- Bookshelves.
+  - Manshoon removed any tomes of value from the bedroom, leaving noticeable gaps on the shelves between mundane books on a variety of esoteric subjects.
+
+### (K20) Alcedor's Private Library
+
+- A tall oak bookshelf contains a few scattered books (all mundane and worthless), but is mostly bare.
+- Above the bookshelf hangs a beautifully crafted sign that reads "Alcedor" in Common.
+- A staircase descends 20 feet to area (K10).
+
+### (K21) Duhlark's Private Library
+
+- A tall oak bookshelf holds a few dozen books.
+- Above the bookshelf hangs a beautifully crafted sign that reads "Duhlark" in Common.
+- A staircase ascends 20 feet to area (K22).
+- Bookshelf.
+  - The bookshelf holds thirty books in total.
+  - If any of them are disturbed, they fly off the shelves and form a swarm that attacks all creatures in the room.
+  - The book collection has the statistics of a swarm of bats.
+  - If there are no creatures to attack on its turn, the book collection returns to the bookshelf.
+  - The books are otherwise non-magical and cover a wide array of subjects.
+
+### (K22) Teleportation Circle
+
+- A staircase rising from area (K21) leads to this highest chamber of the outer tower.
+- A spectator floats in the middle of the room, and four flying snakes flutter above the rafters.
+  - The spectator guards the treasure chests and attacks intruders who aren't being escorted by Manshoon or one of his lieutenants.
+  - The flying snakes join the battle, fighting as allies of the spectator.
+- Runes inscribed on the floor form a large, faintly glowing circle.
+  - The teleportation circle functions as described under the spell of the same name in the Player's Handbook.
+  - Additionally, a creature wearing a teleporter ring can use this circle to access the teleportation circle in Manshoon's sanctum (E1).
+  - A teleporter ring that is brought within 5 feet of the circle begins to hum softly.
+- Five wooden treasure chests with sturdy padlocks rest against the walls.
+  - The padlocks on the chests are illusory but feel real to the touch.
+  - A detect magic spell or similar magic reveals an aura of illusion magic around each one.
+  - Attempts to pick or break the locks fail, but a knock spell or similar magic causes a lock to open.
+  1. Chest 1 has the image of an anvil carved into its lid.
+     - It contains a set of smith's tools (worth 20 gp).
+  2. Chest 2 has iron bands
+     - It contains a set of painter's supplies (worth 10 gp), as well as three small pots of colored paint (blue, red, and yellow).
+  3. Chest 3 has tiny clawed feet
+     - It contains six blank spellbooks with leather covers (worth 50 gp each).
+  4. Chest 4 has a flat lid with a city scene painted on it.
+     - It contains a scholar's pack (worth 40 gp) and a book of Dwarvish phrases.
+       - A character who doesn't speak Dwarvish can use the book to communicate on a rudimentary level with friendly dwarves.
+  5. Chest 5 is inlaid with silver and topped with a silver statuette of a rearing hippogriff (worth 25 gp).
+     - Inside is a wooden rack that holds eight glass vials:
+       - 6 containing potions of healing
+       - 2 containing individual doses of essence of ether.
+         - The poison can be identified with a successful DC 13 Intelligence (Nature) check.
